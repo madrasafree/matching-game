@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Madrasa matching game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="madrasa-course-content">
+      <div class="image-container">
+        <img
+          src="https://madrasa-images.s3.eu-west-2.amazonaws.com/new-designs/play.png"
+          width="120"
+          alt="play"
+        />
+      </div>
+    </div>
+
+    <div class="game">
+      <h2>חַ'לִّינַא נִלְעַבּ! בואו נשחק!</h2>
+      <h3>התאימו את המילים בערבית לפירוש העברי שלהן</h3>
+      <div style="text-align: center">
+        <button class="play-btn">התחילו לשחק</button>
+      </div>
+    </div>
+
+    <div class="madrasa-course-content end">
+      <h3>
+        כֻּל אִלְאִחְתִרַאם! כל הכבוד! הצלחתם להתאים את כל המילים. המשיכו כך!
+      </h3>
+    </div>
+    <div class="board">
+      <h3>התאימו את המילים בערבית לפירוש העברי שלהן</h3>
+      <div class="cards-container">
+        <div class="card match-1" data-match="1" data-group="hebrew">בוקר</div>
+        <div class="card match-2" data-match="2" data-group="hebrew">ערב</div>
+        <div class="card match-3" data-match="3" data-group="arabic">יוֹם</div>
+        <div class="card match-4" data-match="4" data-group="arabic">לֵילֵה</div>
+        <div class="card match-5" data-match="5" data-group="hebrew">שעה</div>
+        <div class="card match-6" data-match="6" data-group="arabic">סִנֵה</div>
+        <div class="card match-7" data-match="7" data-group="hebrew">צהרים</div>
+        <div class="card match-4" data-match="4" data-group="hebrew">לילה</div>
+        <div class="card match-7" data-match="7" data-group="arabic">צֻ'הְר</div>
+        <div class="card match-3" data-match="3" data-group="hebrew">יום</div>
+        <div class="card match-5" data-match="5" data-group="arabic">סַאעַה</div>
+        <div class="card match-6" data-match="6" data-group="hebrew">שנה</div>
+        <div class="card match-2" data-match="2" data-group="arabic">מַסַא</div>
+        <div class="card match-8" data-match="8" data-group="arabic">
+          דַקִיקַה
+        </div>
+        <div class="card match-8" data-match="8" data-group="hebrew">דקה</div>
+        <div class="card match-1" data-match="1" data-group="arabic">
+          צַבַּאח
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
