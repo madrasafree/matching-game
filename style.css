@@ -23,14 +23,10 @@
     margin: 0;
 }
 
-.madrasa-course-content .image-container {
-    width:100%;
-    text-align: center;
-}
 
-.madrasa-course-content img {
-    width: 7.5%;
-    min-width: 75px;
+.image-container img {
+    width: 13%;
+    min-width: 80px;
 }
 
 body {
@@ -58,6 +54,7 @@ body {
     margin: auto;
 }
 
+/* TODO - fix cards size */
 .card {
     width: 21%;
     background: white;
@@ -93,6 +90,8 @@ label {
 .above_board {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
     /* justify-content: space-between; */
     width: 100%;
     margin: 0 auto;
@@ -102,6 +101,15 @@ label {
 
 }
 
+.image-container {
+    width:100%;
+    text-align: center;
+    order: 0;
+}
+
+.restart-btn-container{
+    order: 1;
+}
 .restart-btn {
     border: none;
     color: white;
@@ -111,16 +119,44 @@ label {
     margin: 20% 2%
 }
 
-.explanation {
+.explanation-container {
     text-align: center;
     color: rgb(27, 100, 55);
-    padding: 0% 2%
+    padding: 0% 2%;
+    order: 2;
 }
 
-.timer {
+.timer-container {
     color: rgb(27, 100, 55);
-    padding: 0% 1%
+    padding: 0% 1%;
+    order: 3;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -323,8 +359,10 @@ label {
         padding-bottom: 1%;
         font-size: 100%;
         flex-wrap: wrap;
+        flex-direction: row;
         justify-content:space-between;
         margin:0 auto;
+        margin-bottom: 1%;
 
     }
 
@@ -333,25 +371,33 @@ label {
         color: white;
         background-color: white;
         cursor: pointer;
-        order: 2;
+      
     }
 
-    .explanation {
+    .restart-btn-container{
+         order: 2;
+    }
+
+    .explanation-container {
         width: 100%;
-        text-align: center;
-        color: rgb(27, 100, 55);
+        margin-bottom: 3%;
         order: -1;
     }
-    .explanation h2 {
+    .explanation-container h2 {
         margin:1px;
     }
 
-    .timer {
-        padding: 0% 1%;
-        order: 1;
+    .timer-container {
+        order: 4;
     }
-
-
+    .image-container {
+        width:30%;
+        order: 3;
+    }
+    .image-container img {
+        width: 7.5%;
+        min-width: 75px;
+    }
 
 
 
@@ -381,19 +427,12 @@ label {
 }
 
 
-
-/* @media screen and  (max-width:300px) {
- galaxy fold TODO 
-
+@media screen and  (min-width:601px) and (max-width:640px) {
     .above_board {
-        font-size: 80%;
+
+        font-size:100%;
     }
 
+}
 
-    .card {
 
-       font-size: 20px;
-    }
-
-} 
-*/
