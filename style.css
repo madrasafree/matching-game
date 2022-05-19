@@ -8,130 +8,128 @@
     font-family: "Abraham";
 }
 
-.flex-content {
-    display: flex;
-    flex-direction: row-reverse;
-}
-
 .madrasa-course-content {
     direction: rtl;
     margin: auto;
     font-size: 20px;
     width: 100%;
-    justify-content:space-around;
+    justify-content: space-around;
 
 }
 
 .madrasa-course-content h3 {
     font-size: 28px;
     color: #244080;
-    margin:0;
+    margin: 0;
 }
 
 .madrasa-course-content .image-container {
+    width:100%;
     text-align: center;
 }
 
-body{
-    font-family: "Abraham";
+.madrasa-course-content img {
+    width: 7.5%;
+    min-width: 75px;
 }
 
-#cards-container{
-    display:flex;
+body {
+    font-family: "Abraham";
+    
+}
+
+
+#cards-container {
+    display: flex;
     flex-wrap: wrap;
     background: lightblue;
-    width:100%;
-    max-width:800px;
-    margin:auto;
-    justify-content:space-around;
-    padding:20px;
+    width: 97%;
+    max-width: 800px;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 20px;
+
 }
 
-.board{
+.board {
     background: lightblue;
-    width:100%;
-    max-width:800px;
-    margin:auto;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
 }
 
-.card{
-    width:21%;
-    background:white;
-    height:70px;
-    line-height:70px;
-    margin:10px 0;
+.card {
+    width: 21%;
+    background: white;
+    height: 70px;
+    /* line-height:70px; */
+    margin: 10px 0;
     text-align: center;
-    font-size:26px;
+    font-size: 26px;
     cursor: pointer;
     direction: rtl;
 }
 
-h2, h3, p, label{
+h2,
+h3,
+p,
+label {
     text-align: center;
 }
 
-#end_prints{
+#end_prints {
     text-align: center;
-    width:100%;
-    min-height:100%;
+    width: 100%;
+    min-height: 100%;
     padding: 8px;
 }
 
-.end{
-    display:none;
+.end {
+    display: none;
 }
+
+
 
 .above_board {
     display: flex;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    width: 840px;
-  }
+    justify-content: space-around;
+    /* justify-content: space-between; */
+    width: 100%;
+    margin: 0 auto;
+    max-width: 840px;
+    padding-bottom: 1.5%;
+    font-size: 110%;
+
+}
 
 .restart-btn {
     border: none;
     color: white;
     background-color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    margin-left: 30px;
     cursor: pointer;
-    margin-bottom: 5px;
+    padding-right: 1em;
+    margin: 20% 2%
 }
 
-.explination{
-    margin-left: 60px;
+.explanation {
     text-align: center;
     color: rgb(27, 100, 55);
-
+    padding: 0% 2%
 }
 
-.timer{
-    width: 50px;
-    height: 50px;
-    margin-left: 80px;
+.timer {
     color: rgb(27, 100, 55);
+    padding: 0% 1%
 }
 
-.above_board_element:third-child{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 0px;
-    margin-left: 10px;
-    padding: 5px 5px;
-    flex: 1;
-    width: 50px;
-    height: 50px;
-}
 
-.another_game-btn{
-    width: 8em;
-    background:rgb(27, 100, 55);
+
+
+
+
+.another_game-btn {
+    /* width: 8em; */
+    background: rgb(27, 100, 55);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -143,9 +141,9 @@ h2, h3, p, label{
     cursor: pointer;
 }
 
-#words_display-btn{
+#words_display-btn {
     width: 8em;
-    background:rgb(27, 100, 55);
+    background: rgb(27, 100, 55);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -157,9 +155,9 @@ h2, h3, p, label{
     cursor: pointer;
 }
 
-#words_hide-btn{
+#words_hide-btn {
     width: 8em;
-    background:rgb(27, 100, 55);
+    background: rgb(27, 100, 55);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -173,38 +171,229 @@ h2, h3, p, label{
     display: none;
 }
 
-@media screen and (max-width:500px) {
-     .card{
-        width:44%;
-        height:45px;
-        line-height:45px;
-        margin:8px 0;
-    }
-    #cards-container{
-        padding:10px 0;
-    }
 
-    .madrasa-course-content h3 {
-        text-align: center;
-    }
-}
-
-.words_list{
+.words_list {
     color: rgb(155, 38, 126);
     text-align: center;
     text-emphasis-color: rgb(155, 38, 126);
 }
 
+
 @keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(0deg); }
-    10% { transform: translate(-1px, -2px) rotate(-1deg); }
-    20% { transform: translate(-3px, 0px) rotate(1deg); }
-    30% { transform: translate(3px, 2px) rotate(0deg); }
-    40% { transform: translate(1px, -1px) rotate(1deg); }
-    50% { transform: translate(-1px, 2px) rotate(-1deg); }
-    60% { transform: translate(-3px, 1px) rotate(0deg); }
-    70% { transform: translate(3px, 1px) rotate(-1deg); }
-    80% { transform: translate(-1px, -1px) rotate(1deg); }
-    90% { transform: translate(1px, 2px) rotate(0deg); }
-    100% { transform: translate(1px, -2px) rotate(-1deg); }
-  }
+    0% {
+        transform: translate(1px, 1px) rotate(0deg);
+    }
+
+    10% {
+        transform: translate(-1px, -2px) rotate(-1deg);
+    }
+
+    20% {
+        transform: translate(-3px, 0px) rotate(1deg);
+    }
+
+    30% {
+        transform: translate(3px, 2px) rotate(0deg);
+    }
+
+    40% {
+        transform: translate(1px, -1px) rotate(1deg);
+    }
+
+    50% {
+        transform: translate(-1px, 2px) rotate(-1deg);
+    }
+
+    60% {
+        transform: translate(-3px, 1px) rotate(0deg);
+    }
+
+    70% {
+        transform: translate(3px, 1px) rotate(-1deg);
+    }
+
+    80% {
+        transform: translate(-1px, -1px) rotate(1deg);
+    }
+
+    90% {
+        transform: translate(1px, 2px) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(1px, -2px) rotate(-1deg);
+    }
+}
+
+
+
+
+
+
+/* ---------------------------------------------------------- */
+
+#popup_container {
+    display: block;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+.popup {
+    background-color: #ffffff;
+    width: 25%;
+    height: auto;
+    padding: 2% 4%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 8px;
+    display: block;
+    text-align: center;
+}
+
+.popup button {
+    font-family: "Abraham";
+    display: block;
+    width: 40%;
+    min-width: 35px;
+    position: relative;
+    margin: 7% auto;
+    text-align: center;
+    background-color: #0f72e5;
+    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 2% 1.5%;
+    font-size: 135%;
+    border: none;
+    cursor: pointer;
+}
+
+.popup h2 {
+    font-family: "Abraham";
+    color: rgb(27, 100, 55);
+}
+
+
+
+/* ------------------------------------------------------------- */
+
+
+@media screen and (max-width:600px) {
+
+    .popup {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        height: auto;
+        padding: 2% 4%;
+
+    }
+
+    .popup h2 {
+        font-family: "Abraham";
+        font-size: 140%;
+        color: rgb(27, 100, 55);
+    }
+
+    .popup button {
+        width: 50%;
+        max-width: 150px;
+        min-width: 60px;
+        position: relative;
+        margin: 7% auto;
+        padding: 3% 1%;
+        font-size: 125%;
+
+    }
+
+
+    /* above board */
+
+    .above_board {
+        width: 90%;
+        padding-bottom: 1%;
+        font-size: 100%;
+        flex-wrap: wrap;
+        justify-content:space-between;
+        margin:0 auto;
+
+    }
+
+    .restart-btn {
+        border: none;
+        color: white;
+        background-color: white;
+        cursor: pointer;
+        order: 2;
+    }
+
+    .explanation {
+        width: 100%;
+        text-align: center;
+        color: rgb(27, 100, 55);
+        order: -1;
+    }
+    .explanation h2 {
+        margin:1px;
+    }
+
+    .timer {
+        padding: 0% 1%;
+        order: 1;
+    }
+
+
+
+
+
+
+
+    /* cards */
+
+    .card {
+        width: 30%;
+        margin: 8px 0;
+    }
+
+    #cards-container {
+    
+        width: 95%;
+        max-width: 800px;
+        margin: 0 auto;
+        /* justify-content: space-around; */
+        padding: 5px;
+    
+    }
+
+    .madrasa-course-content h3 {
+        text-align: center;
+    }
+
+}
+
+
+
+/* @media screen and  (max-width:300px) {
+ galaxy fold TODO 
+
+    .above_board {
+        font-size: 80%;
+    }
+
+
+    .card {
+
+       font-size: 20px;
+    }
+
+} 
+*/

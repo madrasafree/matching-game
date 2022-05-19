@@ -4,12 +4,23 @@ let timeCount=0;
 let entered_before = false;
 
 
+
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
-// this code if for the timer
+//  this code if for the timer
+
+
 var minutesLabel = document.getElementById("timer");
 var secondsLabel = document.getElementById("seconds");
 var totalSeconds = 0;
-var timer = setInterval(setTime, 1000);
+var timer;
+
+//start the timer and game
+$("#start_game-btn").click(function () {
+  timer = setInterval(setTime, 1000);
+  $("#popup_container").css("display", "none");
+});
+
+
 
 function setTime() {
   ++totalSeconds;
@@ -196,14 +207,15 @@ counter1 = -1;
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+
 // code of the game:
 $(".card").each(function (index, card) {
   $(card).on("click", function (e) {
-    if($(this).data("group") == "arabic"){
-      let audio1 = $(this).data("audio");
-      let audio2 = new Audio(audio1);
-      audio2.play();
-    }
+    // if($(this).data("group") == "arabic"){
+    //   let audio1 = $(this).data("audio");
+    //   let audio2 = new Audio(audio1);
+    //   audio2.play();
+    // }
     if (currentCard) { // if current card is the past card and "this" is the current card
       if ($(this).data("match") === currentCard.data("match") && $(this).data("group") === currentCard.data("group")) {
             // if we picked the same card twice
