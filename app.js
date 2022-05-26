@@ -179,13 +179,11 @@ for (const element of array_of_random_indexes) {
   }
   if (element == i) {
     if (words_array[counter1].length > 26) {
-      style_font_size = "style=\"font-size: 13px;\" "
-    } else if (words_array[counter1].length > 22) {
-      style_font_size = "style=\"font-size: 15px;\" "
+      style_font_size = "style=\"font-size: 20px;\" "
     } else if (words_array[counter1].length > 18) {
-      style_font_size = "style=\"font-size: 18px;\" "
-    } else if (words_array[counter1].length > 13) {
-      style_font_size = "style=\"font-size: 21px;\" "
+      style_font_size = "style=\"font-size: 22px;\" "
+    } else {
+      style_font_size = "style=\"font-size: 25px;\" "
     }
     if ((counter1 % 2) == 1) {
       lang = "arabic";
