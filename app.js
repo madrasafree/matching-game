@@ -229,6 +229,9 @@ $(".card").each(function (index, card) {
             currentCard = undefined;
             $(this).css("background", "white");
             $(this).css("outline", "white");
+            cards.forEach(card => {
+              card.style.pointerEvents = 'auto';
+            });
 
       } else if ($(this).data("match") === currentCard.data("match")) {
             // if we picked the right card
