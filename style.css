@@ -56,6 +56,7 @@ body {
 
 /* TODO - fix cards size */
 .card {
+    word-wrap: break-word;
     width: 21%;
     background: white;
     min-height: 70px;
@@ -409,7 +410,8 @@ label {
         width: 30%;
         margin: 8px 0;
         border-radius: 3px;
-        
+        font-size: max(6.5vw, 16px) !important;
+        /* font-size:calc(17px + 2vw) !important; */
     }
 
 
@@ -439,3 +441,17 @@ label {
 }
 
 
+
+/* to fix font-size in small screens */
+@media screen and  (min-width:370px) and (max-width:500px) {
+    .card {
+        font-size: max(5vw, 16px) !important;
+    }
+
+}
+@media screen and  (min-width:500px) and (max-width:600px) {
+    .card {
+        font-size: max(4.5vw, 16px) !important;
+    }
+
+}

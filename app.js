@@ -179,7 +179,7 @@ for (const element of array_of_random_indexes) {
   }
   if (element == i) {
     if (words_array[counter1].length > 26) {
-      style_font_size = "style=\"font-size: 20px;\" "
+      style_font_size = "style=\"font-size: 20px; \" "
     } else if (words_array[counter1].length > 18) {
       style_font_size = "style=\"font-size: 22px;\" "
     } else {
@@ -215,6 +215,13 @@ $(".card").each(function (index, card) {
     //   audio2.play();
     // }
     if (currentCard) { // if current card is the past card and "this" is the current card
+      const cards = document.querySelectorAll('.card');
+
+      cards.forEach(card => {
+        card.style.pointerEvents = 'none';
+      });
+
+
       if ($(this).data("match") === currentCard.data("match") && $(this).data("group") === currentCard.data("group")) {
             // if we picked the same card twice
             $(this).css("outline", "2px solid orange");
@@ -240,7 +247,10 @@ $(".card").each(function (index, card) {
                 $("#cards-container").css("display", "none");
                 $(".end").css("display", "block");
               }
-            }, 250);
+              cards.forEach(card => {
+                card.style.pointerEvents = 'auto';
+              });
+            }, 1250);
 
       } else { // if wrong
             $(this).css("outline", "2px solid red");
@@ -257,9 +267,14 @@ $(".card").each(function (index, card) {
                currentCard.css("background", "white");
                thisCard.css("background", "white");
                thisCard.css("outline", "2px solid white");
-              currentCard.css("animation", "still");
-              thisCard.css("animation", "still");
+               currentCard.css("animation", "still");
+               thisCard.css("animation", "still");
                currentCard = undefined;
+
+               cards.forEach(card => {
+               card.style.pointerEvents = 'auto';
+
+              });
             }, 500);
 
       }
