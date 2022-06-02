@@ -250,7 +250,7 @@ $(".card").each(function (index, card) {
               cards.forEach(card => {
                 card.style.pointerEvents = 'auto';
               });
-            }, 1250);
+            }, 250);
 
       } else { // if wrong
             $(this).css("outline", "2px solid red");
