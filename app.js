@@ -57,6 +57,12 @@ function getParam(param) {
   return new URLSearchParams(window.location.search).get(param);
 }
 
+//for game of matching audio to hebrew words
+let game_type = getParam('media');
+if(game_type === "audio"){
+  $('.instructions').text('התאימו את ההקלטות בערבית לפירוש העברי ');
+}
+
 function filterWordsByLesson(Words, lesson) {
   if (lesson) {
     return Words.filter((word) => word.lesson == lesson);
@@ -187,10 +193,19 @@ for (const element of array_of_random_indexes) {
     }
     if ((counter1 % 2) == 1) {
       lang = "arabic";
-      d1.insertAdjacentHTML("beforeend",
-      "<div " + style_font_size + "class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" + 
-      " data-audio=" + curr_audio + ">" + words_array[counter1] + "</div>"
-      );
+      if(game_type === "audio"){
+        d1.insertAdjacentHTML("beforeend",
+        "<div class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" + 
+        " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.jpg\" width=\"80\" alt=\"play audio\" />  </div>"
+        );
+
+      } else {
+        d1.insertAdjacentHTML("beforeend",
+        "<div " + style_font_size + "class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" + 
+        " data-audio=" + curr_audio + "> " + words_array[counter1] + "</div>"
+        );
+      }
+     
     } else {
       lang = "hebrew";
         d1.insertAdjacentHTML("beforeend",
@@ -209,11 +224,14 @@ counter1 = -1;
 // code of the game:
 $(".card").each(function (index, card) {
   $(card).on("click", function (e) {
-    // if($(this).data("group") == "arabic"){
-    //   let audio1 = $(this).data("audio");
-    //   let audio2 = new Audio(audio1);
-    //   audio2.play();
-    // }
+    if(game_type === "audio"){
+      if($(this).data("group") == "arabic"){
+        let audio1 = $(this).data("audio");
+        let audio2 = new Audio(audio1);
+        audio2.play();
+      }
+    }
+  
     if (currentCard) { // if current card is the past card and "this" is the current card
       const cards = document.querySelectorAll('.card');
 
