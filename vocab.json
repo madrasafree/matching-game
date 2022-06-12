@@ -6,7 +6,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(2).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(2).mp3",
+    "arabic_text": "ان شاء الله"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(3).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(3).mp3",
+    "arabic_text": "الحمد لله"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(8).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(8).mp3",
+    "arabic_text": "كيف حالك"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(9).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(9).mp3",
+    "arabic_text": "كيفك"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.32.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.32.wav",
+    "arabic_text": "كيف"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(252).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(252).mp3",
+    "arabic_text": "حال"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(381).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(381).mp3",
+    "arabic_text": "منيح"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(1).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(1).mp3",
+    "arabic_text": "تمام"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(15).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(15).mp3",
+    "arabic_text": "عايشين"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(11).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(11).mp3",
+    "arabic_text": "السلام عليكم"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(12).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(12).mp3",
+    "arabic_text": "وعليكم السلام"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(13).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(13).mp3",
+    "arabic_text": "الله يخليك"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(16).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(16).mp3",
+    "arabic_text": "فرصه سعيده"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(4).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(4).mp3",
+    "arabic_text": "سلامات"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(10).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(10).mp3",
+    "arabic_text": "الله معك"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "lesson": 1,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(17).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(17).mp3",
+    "arabic_text": "والله"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.6.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.6.wav",
+    "arabic_text": "انا"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(117).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(117).mp3",
+    "arabic_text": "انت"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(116).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(116).mp3",
+    "arabic_text": "انت"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(119).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(119).mp3",
+    "arabic_text": "هو"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(120).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(120).mp3",
+    "arabic_text": "هي"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": ""
+    "audio": "",
+    "arabic_text": "هي"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(118).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(118).mp3",
+    "arabic_text": "انتم"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "כינוי גוף",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(121).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(121).mp3",
+    "arabic_text": "هم"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(148).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(148).mp3",
+    "arabic_text": "شو"
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(149).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(149).mp3",
+    "arabic_text": "وين"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(150).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(150).mp3",
+    "arabic_text": "مين"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(151).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(151).mp3",
+    "arabic_text": "من وين"
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.16.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.16.wav",
+    "arabic_text": "شو اسمك"
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.15.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.15.wav",
+    "arabic_text": "اسم"
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(100).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(100).mp3",
+    "arabic_text": "من"
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(139).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(139).mp3",
+    "arabic_text": "كمان"
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(140).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(140).mp3",
+    "arabic_text": "او"
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "תיאור מקום",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.8.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.8.wav",
+    "arabic_text": "هون"
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "תיאור מקום",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(427).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(427).mp3",
+    "arabic_text": "هناك"
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "lesson": 1,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(247).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(247).mp3",
+    "arabic_text": "القدس"
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword+(16).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword+(16).mp3",
+    "arabic_text": "في"
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "שונות",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword +16).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword +16).mp3",
+    "arabic_text": "في"
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "שונות",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(130).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(130).mp3",
+    "arabic_text": "مش"
   },
   {
     "id": 40,
@@ -357,7 +396,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(138).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(138).mp3",
+    "arabic_text": "بس"
   },
   {
     "id": 41,
@@ -366,7 +406,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(138).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(138).mp3",
+    "arabic_text": "بس"
   },
   {
     "id": 42,
@@ -375,7 +416,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(1).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(1).mp3",
+    "arabic_text": "ساكن"
   },
   {
     "id": 43,
@@ -384,7 +426,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(2).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(2).mp3",
+    "arabic_text": "فاهم"
   },
   {
     "id": 44,
@@ -393,7 +436,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(4).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(4).mp3",
+    "arabic_text": "عارف"
   },
   {
     "id": 45,
@@ -402,7 +446,8 @@
     "lesson": 1,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(236).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(236).mp3",
+    "arabic_text": "صاحب"
   },
   {
     "id": 46,
@@ -411,7 +456,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(5).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(5).mp3",
+    "arabic_text": "ايوه"
   },
   {
     "id": 47,
@@ -420,7 +466,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(6).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(6).mp3",
+    "arabic_text": "اه"
   },
   {
     "id": 48,
@@ -429,7 +476,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.22.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.22.wav",
+    "arabic_text": "لا"
   },
   {
     "id": 49,
@@ -438,7 +486,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שונות",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(128).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(128).mp3",
+    "arabic_text": "فش"
   },
   {
     "id": 50,
@@ -447,7 +496,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(129).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(129).mp3",
+    "arabic_text": "عندي"
   },
   {
     "id": 51,
@@ -456,7 +506,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit2Gen/Med_Lesson2_Gen+(11).wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit2Gen/Med_Lesson2_Gen+(11).wav",
+    "arabic_text": "وقت"
   },
   {
     "id": 52,
@@ -465,7 +516,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.28.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.28.wav",
+    "arabic_text": "ولد"
   },
   {
     "id": 53,
@@ -474,7 +526,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.29.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.29.wav",
+    "arabic_text": "بنت"
   },
   {
     "id": 54,
@@ -483,7 +536,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.18.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.18.wav",
+    "arabic_text": "سؤال"
   },
   {
     "id": 55,
@@ -492,7 +546,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.12.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.12.wav",
+    "arabic_text": "طالب"
   },
   {
     "id": 56,
@@ -501,7 +556,8 @@
     "lesson": 1,
     "unit": 6,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.50.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.50.wav",
+    "arabic_text": "كثير"
   },
   {
     "id": 57,
@@ -510,7 +566,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(234).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(234).mp3",
+    "arabic_text": "مشكله"
   },
   {
     "id": 58,
@@ -519,7 +576,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(240).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(240).mp3",
+    "arabic_text": "سياره"
   },
   {
     "id": 59,
@@ -528,7 +586,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(245).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(245).mp3",
+    "arabic_text": "لغه"
   },
   {
     "id": 60,
@@ -537,7 +596,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(246).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(246).mp3",
+    "arabic_text": "صوره"
   },
   {
     "id": 61,
@@ -546,7 +606,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(387).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(387).mp3",
+    "arabic_text": "كبير"
   },
   {
     "id": 62,
@@ -555,7 +616,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(389).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(389).mp3",
+    "arabic_text": "صغير"
   },
   {
     "id": 63,
@@ -564,7 +626,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(388).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(388).mp3",
+    "arabic_text": "جديد"
   },
   {
     "id": 64,
@@ -573,7 +636,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(390).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(390).mp3",
+    "arabic_text": "صعب"
   },
   {
     "id": 65,
@@ -582,7 +646,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(391).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(391).mp3",
+    "arabic_text": "فيس"
   },
   {
     "id": 66,
@@ -591,7 +656,8 @@
     "lesson": 1,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(392).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(392).mp3",
+    "arabic_text": "حلو"
   },
   {
     "id": 67,
@@ -600,7 +666,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(233).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(233).mp3",
+    "arabic_text": "بيت"
   },
   {
     "id": 68,
@@ -609,7 +676,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(239).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(239).mp3",
+    "arabic_text": "كلمه"
   },
   {
     "id": 69,
@@ -618,7 +686,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(241).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(241).mp3",
+    "arabic_text": "فيلم"
   },
   {
     "id": 70,
@@ -627,7 +696,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(243).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(243).mp3",
+    "arabic_text": "درس"
   },
   {
     "id": 71,
@@ -636,7 +706,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(249).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(249).mp3",
+    "arabic_text": "تعب"
   },
   {
     "id": 72,
@@ -645,7 +716,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(250).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(250).mp3",
+    "arabic_text": "يوم"
   },
   {
     "id": 73,
@@ -654,7 +726,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(251).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(251).mp3",
+    "arabic_text": "دفتر"
   },
   {
     "id": 74,
@@ -663,7 +736,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(253).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(253).mp3",
+    "arabic_text": "شمس"
   },
   {
     "id": 75,
@@ -672,7 +746,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "שונות",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(131).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(131).mp3",
+    "arabic_text": "كل"
   },
   {
     "id": 76,
@@ -681,7 +756,8 @@
     "lesson": 1,
     "unit": 8,
     "part_of_speech": "תיאור זמן",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(419).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(419).mp3",
+    "arabic_text": "اليوم"
   },
   {
     "id": 77,
@@ -690,7 +766,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(20).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(20).mp3",
+    "arabic_text": "صباح النور"
   },
   {
     "id": 78,
@@ -699,7 +776,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(21).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(21).mp3",
+    "arabic_text": "صباح الخير"
   },
   {
     "id": 79,
@@ -708,7 +786,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(22).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(22).mp3",
+    "arabic_text": "لو سمحت"
   },
   {
     "id": 80,
@@ -717,7 +796,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(23).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(23).mp3",
+    "arabic_text": "ماشي"
   },
   {
     "id": 81,
@@ -726,7 +806,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(24).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(24).mp3",
+    "arabic_text": "مع السلامه"
   },
   {
     "id": 82,
@@ -735,7 +816,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(25).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(25).mp3",
+    "arabic_text": "الله يسلمك"
   },
   {
     "id": 83,
@@ -744,7 +826,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(27).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(27).mp3",
+    "arabic_text": "شو اخبارك"
   },
   {
     "id": 84,
@@ -753,7 +836,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(28).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(28).mp3",
+    "arabic_text": "يعطيك العافيه"
   },
   {
     "id": 85,
@@ -762,7 +846,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(33).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(33).mp3",
+    "arabic_text": "الله يعافيك"
   },
   {
     "id": 86,
@@ -771,7 +856,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(29).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(29).mp3",
+    "arabic_text": "شكرا"
   },
   {
     "id": 87,
@@ -780,7 +866,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(38).wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(38).wav",
+    "arabic_text": "يسلمو ايديك"
   },
   {
     "id": 88,
@@ -789,7 +876,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(32).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(32).mp3",
+    "arabic_text": "ويدك"
   },
   {
     "id": 89,
@@ -798,7 +886,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(36).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(36).mp3",
+    "arabic_text": "فلكه"
   },
   {
     "id": 90,
@@ -807,7 +896,8 @@
     "lesson": 2,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(268).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(268).mp3",
+    "arabic_text": "خال"
   },
   {
     "id": 91,
@@ -816,7 +906,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(30).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(30).mp3",
+    "arabic_text": "كل شيء"
   },
   {
     "id": 92,
@@ -825,7 +916,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(257).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(257).mp3",
+    "arabic_text": "شيء"
   },
   {
     "id": 93,
@@ -834,7 +926,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(102).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(102).mp3",
+    "arabic_text": "بدون"
   },
   {
     "id": 94,
@@ -843,7 +936,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(103).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(103).mp3",
+    "arabic_text": "مع"
   },
   {
     "id": 95,
@@ -852,7 +946,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שונות",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(132).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(132).mp3",
+    "arabic_text": "بدي"
   },
   {
     "id": 96,
@@ -861,7 +956,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(395).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(395).mp3",
+    "arabic_text": "ثاني"
   },
   {
     "id": 97,
@@ -870,7 +966,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.41.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.41.wav",
+    "arabic_text": "ليش"
   },
   {
     "id": 98,
@@ -879,7 +976,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(155).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(155).mp3",
+    "arabic_text": "ايش"
   },
   {
     "id": 99,
@@ -888,7 +986,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(255).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(255).mp3",
+    "arabic_text": "قهوه"
   },
   {
     "id": 100,
@@ -897,7 +996,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(256).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(256).mp3",
+    "arabic_text": "شاي"
   },
   {
     "id": 101,
@@ -906,7 +1006,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(258).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(258).mp3",
+    "arabic_text": "سكر"
   },
   {
     "id": 102,
@@ -915,7 +1016,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(259).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(259).mp3",
+    "arabic_text": "حليب"
   },
   {
     "id": 103,
@@ -924,7 +1026,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(260).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(260).mp3",
+    "arabic_text": "خبز"
   },
   {
     "id": 104,
@@ -933,7 +1036,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(262).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(262).mp3",
+    "arabic_text": "اكل"
   },
   {
     "id": 105,
@@ -942,7 +1046,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(270).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(270).mp3",
+    "arabic_text": "حساب"
   },
   {
     "id": 106,
@@ -951,7 +1056,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(282).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(282).mp3",
+    "arabic_text": "سندويشه"
   },
   {
     "id": 107,
@@ -960,7 +1066,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(272).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(272).mp3",
+    "arabic_text": "سندويشه فلافل"
   },
   {
     "id": 108,
@@ -969,7 +1076,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(274).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(274).mp3",
+    "arabic_text": "سلطه"
   },
   {
     "id": 109,
@@ -978,7 +1086,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(393).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(393).mp3",
+    "arabic_text": "تعبان"
   },
   {
     "id": 110,
@@ -987,7 +1096,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(394).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(394).mp3",
+    "arabic_text": "جوعان"
   },
   {
     "id": 111,
@@ -996,7 +1106,8 @@
     "lesson": 2,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(396).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(396).mp3",
+    "arabic_text": "زاكي"
   },
   {
     "id": 112,
@@ -1005,7 +1116,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(26).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(26).mp3",
+    "arabic_text": "شو رايك"
   },
   {
     "id": 113,
@@ -1014,7 +1126,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(279).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(279).mp3",
+    "arabic_text": "راي"
   },
   {
     "id": 114,
@@ -1023,7 +1136,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(104).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(104).mp3",
+    "arabic_text": "جنب"
   },
   {
     "id": 115,
@@ -1032,7 +1146,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(265).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(265).mp3",
+    "arabic_text": "ام"
   },
   {
     "id": 116,
@@ -1041,7 +1156,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(267).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(267).mp3",
+    "arabic_text": "ابن"
   },
   {
     "id": 117,
@@ -1050,7 +1166,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(271).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(271).mp3",
+    "arabic_text": "كلب"
   },
   {
     "id": 118,
@@ -1059,7 +1176,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(278).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(278).mp3",
+    "arabic_text": "شغل"
   },
   {
     "id": 119,
@@ -1068,7 +1186,8 @@
     "lesson": 2,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(7).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(7).mp3",
+    "arabic_text": "شايف"
   },
   {
     "id": 120,
@@ -1077,7 +1196,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "כינוי רמז",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(125).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(125).mp3",
+    "arabic_text": "حدا"
   },
   {
     "id": 121,
@@ -1086,7 +1206,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "כינוי רמז",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(123).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(123).mp3",
+    "arabic_text": "عادي"
   },
   {
     "id": 122,
@@ -1095,7 +1216,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "כינוי רמז",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(124).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(124).mp3",
+    "arabic_text": "هاي"
   },
   {
     "id": 123,
@@ -1104,7 +1226,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "כינוי רמז",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(122).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(122).mp3",
+    "arabic_text": "هذول"
   },
   {
     "id": 124,
@@ -1113,7 +1236,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(261).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(261).mp3",
+    "arabic_text": "اب"
   },
   {
     "id": 125,
@@ -1122,7 +1246,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(263).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(263).mp3",
+    "arabic_text": "اخ"
   },
   {
     "id": 126,
@@ -1131,7 +1256,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(264).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(264).mp3",
+    "arabic_text": "اخت"
   },
   {
     "id": 127,
@@ -1140,7 +1266,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(269).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(269).mp3",
+    "arabic_text": "عم"
   },
   {
     "id": 128,
@@ -1149,7 +1276,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(283).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(283).mp3",
+    "arabic_text": "ابن خال"
   },
   {
     "id": 129,
@@ -1158,7 +1286,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(284).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(284).mp3",
+    "arabic_text": "ابن عم"
   },
   {
     "id": 130,
@@ -1167,7 +1296,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(276).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(276).mp3",
+    "arabic_text": "عيله"
   },
   {
     "id": 131,
@@ -1176,7 +1306,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(266).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(266).mp3",
+    "arabic_text": "مدرسه"
   },
   {
     "id": 132,
@@ -1185,7 +1316,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(273).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(273).mp3",
+    "arabic_text": "مطعم"
   },
   {
     "id": 133,
@@ -1194,7 +1326,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(277).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(277).mp3",
+    "arabic_text": "مكتب"
   },
   {
     "id": 134,
@@ -1203,7 +1336,8 @@
     "lesson": 2,
     "unit": 6,
     "part_of_speech": "תיאור זמן",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(420).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(420).mp3",
+    "arabic_text": "هلا"
   },
   {
     "id": 135,
@@ -1212,7 +1346,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(19).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(19).mp3",
+    "arabic_text": "تعال"
   },
   {
     "id": 136,
@@ -1221,7 +1356,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(105).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(105).mp3",
+    "arabic_text": "علي"
   },
   {
     "id": 137,
@@ -1230,7 +1366,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.40.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.40.wav",
+    "arabic_text": "طيب"
   },
   {
     "id": 138,
@@ -1239,7 +1376,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(154).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(154).mp3",
+    "arabic_text": "على وين"
   },
   {
     "id": 139,
@@ -1248,7 +1386,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(254).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(254).mp3",
+    "arabic_text": "فكره"
   },
   {
     "id": 140,
@@ -1257,7 +1396,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(275).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(275).mp3",
+    "arabic_text": "صوت"
   },
   {
     "id": 141,
@@ -1266,7 +1406,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(280).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(280).mp3",
+    "arabic_text": "سينما"
   },
   {
     "id": 142,
@@ -1275,7 +1416,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(281).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(281).mp3",
+    "arabic_text": "اهل"
   },
   {
     "id": 143,
@@ -1284,7 +1426,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(5).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(5).mp3",
+    "arabic_text": "رايح"
   },
   {
     "id": 144,
@@ -1293,7 +1436,8 @@
     "lesson": 2,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(11).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(11).mp3",
+    "arabic_text": "سامع"
   },
   {
     "id": 145,
@@ -1302,7 +1446,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(38).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(38).mp3",
+    "arabic_text": "يا سلام"
   },
   {
     "id": 146,
@@ -1311,7 +1456,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(43).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(43).mp3",
+    "arabic_text": "تشرفنا"
   },
   {
     "id": 147,
@@ -1320,7 +1466,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(44).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(44).mp3",
+    "arabic_text": "الشرف لي"
   },
   {
     "id": 148,
@@ -1329,7 +1476,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(46).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(46).mp3",
+    "arabic_text": "كل الاحترام"
   },
   {
     "id": 149,
@@ -1338,7 +1486,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(48).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(48).mp3",
+    "arabic_text": "مرحبتين"
   },
   {
     "id": 150,
@@ -1347,7 +1496,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.4.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.4.wav",
+    "arabic_text": "مرحبا"
   },
   {
     "id": 151,
@@ -1356,7 +1506,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(50).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(50).mp3",
+    "arabic_text": "تسلم"
   },
   {
     "id": 152,
@@ -1365,7 +1516,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(51).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(51).mp3",
+    "arabic_text": "على العين والراس"
   },
   {
     "id": 153,
@@ -1374,7 +1526,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(52).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(52).mp3",
+    "arabic_text": "على عيني وراسي"
   },
   {
     "id": 154,
@@ -1383,7 +1536,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_17.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_17.wav",
+    "arabic_text": "على عيني"
   },
   {
     "id": 155,
@@ -1392,7 +1546,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(54).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(54).mp3",
+    "arabic_text": "على راسي"
   },
   {
     "id": 156,
@@ -1401,7 +1556,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(397).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(397).mp3",
+    "arabic_text": "بجنن"
   },
   {
     "id": 157,
@@ -1410,7 +1566,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(296).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(296).mp3",
+    "arabic_text": "شارع"
   },
   {
     "id": 158,
@@ -1419,7 +1576,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(303).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(303).mp3",
+    "arabic_text": "شاب"
   },
   {
     "id": 159,
@@ -1428,7 +1586,8 @@
     "lesson": 3,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(9).wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(9).wav",
+    "arabic_text": "راس"
   },
   {
     "id": 160,
@@ -1437,7 +1596,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(199).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(199).mp3",
+    "arabic_text": "واحد"
   },
   {
     "id": 161,
@@ -1446,7 +1606,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(215).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(215).mp3",
+    "arabic_text": "اثنين"
   },
   {
     "id": 162,
@@ -1455,7 +1616,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(210).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(210).mp3",
+    "arabic_text": "ثلاثه"
   },
   {
     "id": 163,
@@ -1464,7 +1626,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(200).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(200).mp3",
+    "arabic_text": "اربعه"
   },
   {
     "id": 164,
@@ -1473,7 +1636,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(203).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(203).mp3",
+    "arabic_text": "خمسه"
   },
   {
     "id": 165,
@@ -1482,7 +1646,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(214).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(214).mp3",
+    "arabic_text": "سته"
   },
   {
     "id": 166,
@@ -1491,7 +1656,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(207).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(207).mp3",
+    "arabic_text": "سبعه"
   },
   {
     "id": 167,
@@ -1500,7 +1666,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(212).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(212).mp3",
+    "arabic_text": "ثمانيه"
   },
   {
     "id": 168,
@@ -1509,7 +1676,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": ""
+    "audio": "",
+    "arabic_text": "ثمانيه"
   },
   {
     "id": 169,
@@ -1518,7 +1686,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(205).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(205).mp3",
+    "arabic_text": "10"
   },
   {
     "id": 170,
@@ -1527,7 +1696,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(206).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(206).mp3",
+    "arabic_text": "20"
   },
   {
     "id": 171,
@@ -1536,7 +1706,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(211).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(211).mp3",
+    "arabic_text": "30"
   },
   {
     "id": 172,
@@ -1545,7 +1716,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(201).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(201).mp3",
+    "arabic_text": "40"
   },
   {
     "id": 173,
@@ -1554,7 +1726,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(202).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(202).mp3",
+    "arabic_text": "50"
   },
   {
     "id": 174,
@@ -1563,7 +1736,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(209).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(209).mp3",
+    "arabic_text": "60"
   },
   {
     "id": 175,
@@ -1572,7 +1746,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(208).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(208).mp3",
+    "arabic_text": "70"
   },
   {
     "id": 176,
@@ -1581,7 +1756,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(213).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(213).mp3",
+    "arabic_text": "80"
   },
   {
     "id": 177,
@@ -1590,7 +1766,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(217).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(217).mp3",
+    "arabic_text": "90"
   },
   {
     "id": 178,
@@ -1599,7 +1776,8 @@
     "lesson": 3,
     "unit": 4,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(204).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(204).mp3",
+    "arabic_text": "100"
   },
   {
     "id": 179,
@@ -1608,7 +1786,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.25.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.25.wav",
+    "arabic_text": "قديش عمرك"
   },
   {
     "id": 180,
@@ -1617,7 +1796,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(106).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(106).mp3",
+    "arabic_text": "ب"
   },
   {
     "id": 181,
@@ -1626,7 +1806,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(156).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(156).mp3",
+    "arabic_text": "حكم"
   },
   {
     "id": 182,
@@ -1635,7 +1816,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(157).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(157).mp3",
+    "arabic_text": "قديش"
   },
   {
     "id": 183,
@@ -1644,7 +1826,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(290).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(290).mp3",
+    "arabic_text": "عمر"
   },
   {
     "id": 184,
@@ -1653,7 +1836,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(291).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(291).mp3",
+    "arabic_text": "بنطلون"
   },
   {
     "id": 185,
@@ -1662,7 +1846,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(292).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(292).mp3",
+    "arabic_text": "تاريخ"
   },
   {
     "id": 186,
@@ -1671,7 +1856,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(294).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(294).mp3",
+    "arabic_text": "مفتاح"
   },
   {
     "id": 187,
@@ -1680,7 +1866,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(295).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(295).mp3",
+    "arabic_text": "الم"
   },
   {
     "id": 188,
@@ -1689,7 +1876,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(297).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(297).mp3",
+    "arabic_text": "اسبوع"
   },
   {
     "id": 189,
@@ -1698,7 +1886,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(298).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(298).mp3",
+    "arabic_text": "حق"
   },
   {
     "id": 190,
@@ -1707,7 +1896,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(299).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(299).mp3",
+    "arabic_text": "ساعه"
   },
   {
     "id": 191,
@@ -1716,7 +1906,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(301).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(301).mp3",
+    "arabic_text": "صف"
   },
   {
     "id": 192,
@@ -1725,7 +1916,8 @@
     "lesson": 3,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(398).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(398).mp3",
+    "arabic_text": "مشغول"
   },
   {
     "id": 193,
@@ -1734,7 +1926,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(133).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(133).mp3",
+    "arabic_text": "ولا"
   },
   {
     "id": 194,
@@ -1743,7 +1936,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(384).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(384).mp3",
+    "arabic_text": "ولا شيء"
   },
   {
     "id": 195,
@@ -1752,7 +1946,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(42).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(42).mp3",
+    "arabic_text": "ولا واحد"
   },
   {
     "id": 196,
@@ -1761,7 +1956,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(286).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(286).mp3",
+    "arabic_text": "مقلوبه"
   },
   {
     "id": 197,
@@ -1770,7 +1966,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(293).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(293).mp3",
+    "arabic_text": "مدير"
   },
   {
     "id": 198,
@@ -1779,7 +1976,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(302).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(302).mp3",
+    "arabic_text": "بصل"
   },
   {
     "id": 199,
@@ -1788,7 +1986,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_15.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_15.wav",
+    "arabic_text": "مي مي"
   },
   {
     "id": 200,
@@ -1797,7 +1996,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(310).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(310).mp3",
+    "arabic_text": "امريكا"
   },
   {
     "id": 201,
@@ -1806,7 +2006,8 @@
     "lesson": 3,
     "unit": 6,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(399).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(399).mp3",
+    "arabic_text": "متاكد"
   },
   {
     "id": 202,
@@ -1815,7 +2016,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(37).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(37).mp3",
+    "arabic_text": "حكي فاضي"
   },
   {
     "id": 203,
@@ -1824,7 +2026,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(16).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(16).mp3",
+    "arabic_text": "يحكي"
   },
   {
     "id": 204,
@@ -1833,7 +2036,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(14).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(14).mp3",
+    "arabic_text": "يتعلم"
   },
   {
     "id": 205,
@@ -1842,7 +2046,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(15).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(15).mp3",
+    "arabic_text": "بشتغل"
   },
   {
     "id": 206,
@@ -1851,7 +2056,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(287).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(287).mp3",
+    "arabic_text": "عبراني"
   },
   {
     "id": 207,
@@ -1860,7 +2066,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(305).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(305).mp3",
+    "arabic_text": "عربي"
   },
   {
     "id": 208,
@@ -1869,7 +2076,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(306).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(306).mp3",
+    "arabic_text": "انجليزي"
   },
   {
     "id": 209,
@@ -1878,7 +2086,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(307).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(307).mp3",
+    "arabic_text": "هندي"
   },
   {
     "id": 210,
@@ -1887,7 +2096,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(308).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(308).mp3",
+    "arabic_text": "صيني"
   },
   {
     "id": 211,
@@ -1896,7 +2106,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(285).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(285).mp3",
+    "arabic_text": "موسيقى"
   },
   {
     "id": 212,
@@ -1905,7 +2116,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(288).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(288).mp3",
+    "arabic_text": "حكي"
   },
   {
     "id": 213,
@@ -1914,7 +2126,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(289).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(289).mp3",
+    "arabic_text": "جامعه"
   },
   {
     "id": 214,
@@ -1923,7 +2136,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(300).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(300).mp3",
+    "arabic_text": "صاد"
   },
   {
     "id": 215,
@@ -1932,7 +2146,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(304).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(304).mp3",
+    "arabic_text": "معلم"
   },
   {
     "id": 216,
@@ -1941,7 +2156,8 @@
     "lesson": 3,
     "unit": 7,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(383).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(383).mp3",
+    "arabic_text": "شوي"
   },
   {
     "id": 217,
@@ -1950,7 +2166,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(39).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(39).mp3",
+    "arabic_text": "شو بحكوا"
   },
   {
     "id": 218,
@@ -1959,7 +2176,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(40).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(40).mp3",
+    "arabic_text": "كيف ممكن اقول"
   },
   {
     "id": 219,
@@ -1968,7 +2186,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(41).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(41).mp3",
+    "arabic_text": "كيف بيحكوا"
   },
   {
     "id": 220,
@@ -1977,7 +2196,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(57).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(57).mp3",
+    "arabic_text": "شو يعني"
   },
   {
     "id": 221,
@@ -1986,7 +2206,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(57).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(57).mp3",
+    "arabic_text": "شو يعني"
   },
   {
     "id": 222,
@@ -1995,7 +2216,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(56).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(56).mp3",
+    "arabic_text": "شو هالشوب"
   },
   {
     "id": 223,
@@ -2004,7 +2226,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(143).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(143).mp3",
+    "arabic_text": "او"
   },
   {
     "id": 224,
@@ -2013,7 +2236,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(144).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(144).mp3",
+    "arabic_text": "ولا"
   },
   {
     "id": 225,
@@ -2022,7 +2246,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(47).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nahgam+(47).mp3",
+    "arabic_text": "معناها"
   },
   {
     "id": 226,
@@ -2031,7 +2256,8 @@
     "lesson": 3,
     "unit": 8,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(55).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(55).mp3",
+    "arabic_text": "كاسه مي"
   },
   {
     "id": 227,
@@ -2040,7 +2266,8 @@
     "lesson": 4,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(60).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(60).mp3",
+    "arabic_text": "كيف بقولوا"
   },
   {
     "id": 228,
@@ -2049,7 +2276,8 @@
     "lesson": 4,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(316).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(316).mp3",
+    "arabic_text": "مخبز"
   },
   {
     "id": 229,
@@ -2058,7 +2286,8 @@
     "lesson": 4,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(318).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(318).mp3",
+    "arabic_text": "الخليل"
   },
   {
     "id": 230,
@@ -2067,7 +2296,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(58).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(58).mp3",
+    "arabic_text": "دمك خفيف"
   },
   {
     "id": 231,
@@ -2076,7 +2306,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(423).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(423).mp3",
+    "arabic_text": "عدس"
   },
   {
     "id": 232,
@@ -2085,7 +2316,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "תיאור זמן",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(422).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(422).mp3",
+    "arabic_text": "بكره"
   },
   {
     "id": 233,
@@ -2094,7 +2326,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.22.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.22.wav",
+    "arabic_text": "لا"
   },
   {
     "id": 234,
@@ -2103,7 +2336,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_1.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_1.wav",
+    "arabic_text": "انه"
   },
   {
     "id": 235,
@@ -2112,7 +2346,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(146).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(146).mp3",
+    "arabic_text": "اذا"
   },
   {
     "id": 236,
@@ -2121,7 +2356,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(312).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(312).mp3",
+    "arabic_text": "ناس"
   },
   {
     "id": 237,
@@ -2130,7 +2366,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(400).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(400).mp3",
+    "arabic_text": "المهم"
   },
   {
     "id": 238,
@@ -2139,7 +2376,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(401).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(401).mp3",
+    "arabic_text": "خفيف"
   },
   {
     "id": 239,
@@ -2148,7 +2386,8 @@
     "lesson": 4,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(402).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(402).mp3",
+    "arabic_text": "مجنون"
   },
   {
     "id": 240,
@@ -2157,7 +2396,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(158).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(158).mp3",
+    "arabic_text": "ايمتى"
   },
   {
     "id": 241,
@@ -2166,7 +2406,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(108).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(108).mp3",
+    "arabic_text": "قبل"
   },
   {
     "id": 242,
@@ -2175,7 +2416,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(421).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(421).mp3",
+    "arabic_text": "دايما"
   },
   {
     "id": 243,
@@ -2184,7 +2426,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(19).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(19).mp3",
+    "arabic_text": "بجيب"
   },
   {
     "id": 244,
@@ -2193,7 +2436,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_4.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_4.wav",
+    "arabic_text": "بذور"
   },
   {
     "id": 245,
@@ -2202,7 +2446,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(24).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(24).mp3",
+    "arabic_text": "بفوت"
   },
   {
     "id": 246,
@@ -2211,7 +2456,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(25).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(25).mp3",
+    "arabic_text": "بقول"
   },
   {
     "id": 247,
@@ -2220,7 +2466,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(27).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(27).mp3",
+    "arabic_text": "يقوم"
   },
   {
     "id": 248,
@@ -2229,7 +2476,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(315).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(315).mp3",
+    "arabic_text": "ليله"
   },
   {
     "id": 249,
@@ -2238,7 +2486,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(319).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(319).mp3",
+    "arabic_text": "مطبخ"
   },
   {
     "id": 250,
@@ -2247,7 +2496,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(320).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(320).mp3",
+    "arabic_text": "باب"
   },
   {
     "id": 251,
@@ -2256,7 +2506,8 @@
     "lesson": 4,
     "unit": 5,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(385).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(385).mp3",
+    "arabic_text": "متاخر"
   },
   {
     "id": 252,
@@ -2265,7 +2516,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(59).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(59).mp3",
+    "arabic_text": "شو بيصير"
   },
   {
     "id": 253,
@@ -2274,7 +2526,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(61).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(61).mp3",
+    "arabic_text": "بصير"
   },
   {
     "id": 254,
@@ -2283,7 +2536,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(62).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(62).mp3",
+    "arabic_text": "ما بصير"
   },
   {
     "id": 255,
@@ -2292,7 +2546,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(145).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(145).mp3",
+    "arabic_text": "لما"
   },
   {
     "id": 256,
@@ -2301,7 +2556,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_9.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_9.wav",
+    "arabic_text": "بفيق"
   },
   {
     "id": 257,
@@ -2310,7 +2566,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(18).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(18).mp3",
+    "arabic_text": "بيع"
   },
   {
     "id": 258,
@@ -2319,7 +2576,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_10.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_10.wav",
+    "arabic_text": "بصير"
   },
   {
     "id": 259,
@@ -2328,7 +2586,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(313).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(313).mp3",
+    "arabic_text": "الصبح"
   },
   {
     "id": 260,
@@ -2337,7 +2596,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(314).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(314).mp3",
+    "arabic_text": "دكان"
   },
   {
     "id": 261,
@@ -2346,7 +2606,8 @@
     "lesson": 4,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(317).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(317).mp3",
+    "arabic_text": "هديه"
   },
   {
     "id": 262,
@@ -2355,7 +2616,8 @@
     "lesson": 4,
     "unit": 7,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(107).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(107).mp3",
+    "arabic_text": "بعد"
   },
   {
     "id": 263,
@@ -2364,7 +2626,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(110).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(110).mp3",
+    "arabic_text": "من شان"
   },
   {
     "id": 264,
@@ -2373,7 +2636,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(386).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(386).mp3",
+    "arabic_text": "بالمره"
   },
   {
     "id": 265,
@@ -2382,7 +2646,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(29).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(29).mp3",
+    "arabic_text": "بفتح"
   },
   {
     "id": 266,
@@ -2391,7 +2656,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(321).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(321).mp3",
+    "arabic_text": "شارع القدس"
   },
   {
     "id": 267,
@@ -2400,7 +2666,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": ""
+    "audio": "",
+    "arabic_text": "شارع القدس"
   },
   {
     "id": 268,
@@ -2409,7 +2676,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(326).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(326).mp3",
+    "arabic_text": "يوم السبت"
   },
   {
     "id": 269,
@@ -2418,7 +2686,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(329).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(329).mp3",
+    "arabic_text": "راديو"
   },
   {
     "id": 270,
@@ -2427,7 +2696,8 @@
     "lesson": 5,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(335).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(335).mp3",
+    "arabic_text": "استاذ"
   },
   {
     "id": 271,
@@ -2436,7 +2706,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "פועל עזר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(135).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(135).mp3",
+    "arabic_text": "لازم"
   },
   {
     "id": 272,
@@ -2445,7 +2716,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "פועל עזר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(136).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(136).mp3",
+    "arabic_text": "ممكن"
   },
   {
     "id": 273,
@@ -2454,7 +2726,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "תיאור זמן",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(424).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(424).mp3",
+    "arabic_text": "بعدين"
   },
   {
     "id": 274,
@@ -2463,7 +2736,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(28).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(28).mp3",
+    "arabic_text": "بلعب"
   },
   {
     "id": 275,
@@ -2472,7 +2746,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(30).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(30).mp3",
+    "arabic_text": "برجع"
   },
   {
     "id": 276,
@@ -2481,7 +2756,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_3.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_3.wav",
+    "arabic_text": "بدفع"
   },
   {
     "id": 277,
@@ -2490,7 +2766,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(324).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(324).mp3",
+    "arabic_text": "البلده القديمه"
   },
   {
     "id": 278,
@@ -2499,7 +2776,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(323).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(323).mp3",
+    "arabic_text": "غداء"
   },
   {
     "id": 279,
@@ -2508,7 +2786,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(328).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(328).mp3",
+    "arabic_text": "مصاري"
   },
   {
     "id": 280,
@@ -2517,7 +2796,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(330).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(330).mp3",
+    "arabic_text": "حفله"
   },
   {
     "id": 281,
@@ -2526,7 +2806,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(331).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(331).mp3",
+    "arabic_text": "لعبه"
   },
   {
     "id": 282,
@@ -2535,7 +2816,8 @@
     "lesson": 5,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(334).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(334).mp3",
+    "arabic_text": "سنه"
   },
   {
     "id": 283,
@@ -2544,7 +2826,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(31).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(31).mp3",
+    "arabic_text": "بشرب"
   },
   {
     "id": 284,
@@ -2553,7 +2836,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(34).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(34).mp3",
+    "arabic_text": "بطلع"
   },
   {
     "id": 285,
@@ -2562,7 +2846,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_8.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_8.wav",
+    "arabic_text": "بسال"
   },
   {
     "id": 286,
@@ -2571,7 +2856,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(198).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(198).mp3",
+    "arabic_text": "ادر"
   },
   {
     "id": 287,
@@ -2580,7 +2866,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(322).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(322).mp3",
+    "arabic_text": "شباك"
   },
   {
     "id": 288,
@@ -2589,7 +2876,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(327).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(327).mp3",
+    "arabic_text": "بحر"
   },
   {
     "id": 289,
@@ -2598,7 +2886,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(332).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(332).mp3",
+    "arabic_text": "ظهر"
   },
   {
     "id": 290,
@@ -2607,7 +2896,8 @@
     "lesson": 5,
     "unit": 4,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(333).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(333).mp3",
+    "arabic_text": "بعد الظهر"
   },
   {
     "id": 291,
@@ -2616,7 +2906,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(111).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(111).mp3",
+    "arabic_text": "زي"
   },
   {
     "id": 292,
@@ -2625,7 +2916,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(64).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(64).mp3",
+    "arabic_text": "ما احلاه"
   },
   {
     "id": 293,
@@ -2634,7 +2926,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(65).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(65).mp3",
+    "arabic_text": "الدنيا شوب"
   },
   {
     "id": 294,
@@ -2643,7 +2936,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_12.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_12.wav",
+    "arabic_text": "بكره"
   },
   {
     "id": 295,
@@ -2652,7 +2946,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(336).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(336).mp3",
+    "arabic_text": "مشروب"
   },
   {
     "id": 296,
@@ -2661,7 +2956,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(337).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(337).mp3",
+    "arabic_text": "غرفه"
   },
   {
     "id": 297,
@@ -2670,7 +2966,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(404).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(404).mp3",
+    "arabic_text": "فتح"
   },
   {
     "id": 298,
@@ -2679,7 +2976,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(406).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(406).mp3",
+    "arabic_text": "سكر"
   },
   {
     "id": 299,
@@ -2688,7 +2986,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(405).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(405).mp3",
+    "arabic_text": "طويل"
   },
   {
     "id": 300,
@@ -2697,7 +2996,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(407).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(407).mp3",
+    "arabic_text": "بصير"
   },
   {
     "id": 301,
@@ -2706,7 +3006,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(408).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(408).mp3",
+    "arabic_text": "بارد"
   },
   {
     "id": 302,
@@ -2715,7 +3016,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(409).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(409).mp3",
+    "arabic_text": "شاطر"
   },
   {
     "id": 303,
@@ -2724,7 +3026,8 @@
     "lesson": 5,
     "unit": 5,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(63).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(63).mp3",
+    "arabic_text": "صح"
   },
   {
     "id": 304,
@@ -2733,7 +3036,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(220).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(220).mp3",
+    "arabic_text": "يلا"
   },
   {
     "id": 305,
@@ -2742,7 +3046,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(221).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(221).mp3",
+    "arabic_text": "ربع"
   },
   {
     "id": 306,
@@ -2751,7 +3056,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(222).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(222).mp3",
+    "arabic_text": "طولت"
   },
   {
     "id": 307,
@@ -2760,7 +3066,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(223).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(223).mp3",
+    "arabic_text": "نص"
   },
   {
     "id": 308,
@@ -2769,7 +3076,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(338).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(338).mp3",
+    "arabic_text": "يوم الاحد"
   },
   {
     "id": 309,
@@ -2778,7 +3086,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(339).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(339).mp3",
+    "arabic_text": "يوم الاثنين"
   },
   {
     "id": 310,
@@ -2787,7 +3096,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(340).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(340).mp3",
+    "arabic_text": "يوم الثلاثاء"
   },
   {
     "id": 311,
@@ -2796,7 +3106,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(341).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(341).mp3",
+    "arabic_text": "يوم الاربعاء"
   },
   {
     "id": 312,
@@ -2805,7 +3116,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(342).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(342).mp3",
+    "arabic_text": "يوم الخميس"
   },
   {
     "id": 313,
@@ -2814,7 +3126,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(344).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(344).mp3",
+    "arabic_text": "يوم الجمعه"
   },
   {
     "id": 314,
@@ -2823,7 +3136,8 @@
     "lesson": 5,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(343).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(343).mp3",
+    "arabic_text": "فوتبول"
   },
   {
     "id": 315,
@@ -2832,7 +3146,8 @@
     "lesson": 5,
     "unit": 7,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(112).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(112).mp3",
+    "arabic_text": "عن"
   },
   {
     "id": 316,
@@ -2841,7 +3156,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(70).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(70).mp3",
+    "arabic_text": "لحاله"
   },
   {
     "id": 317,
@@ -2850,7 +3166,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(425).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(425).mp3",
+    "arabic_text": "مرات"
   },
   {
     "id": 318,
@@ -2859,7 +3176,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(76).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(76).mp3",
+    "arabic_text": "جاي على بالي"
   },
   {
     "id": 319,
@@ -2868,7 +3186,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(66).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(66).mp3",
+    "arabic_text": "بحبك"
   },
   {
     "id": 320,
@@ -2877,7 +3196,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(188).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(188).mp3",
+    "arabic_text": "حب"
   },
   {
     "id": 321,
@@ -2886,7 +3206,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(350).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(350).mp3",
+    "arabic_text": "سيد"
   },
   {
     "id": 322,
@@ -2895,7 +3216,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(351).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(351).mp3",
+    "arabic_text": "زلمه"
   },
   {
     "id": 323,
@@ -2904,7 +3226,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.36.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.36.wav",
+    "arabic_text": "مستشفى"
   },
   {
     "id": 324,
@@ -2913,7 +3236,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(353).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(353).mp3",
+    "arabic_text": "زوج"
   },
   {
     "id": 325,
@@ -2922,7 +3246,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(355).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(355).mp3",
+    "arabic_text": "الصيف"
   },
   {
     "id": 326,
@@ -2931,7 +3256,8 @@
     "lesson": 6,
     "unit": 2,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(356).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(356).mp3",
+    "arabic_text": "شمال"
   },
   {
     "id": 327,
@@ -2940,7 +3266,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(67).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(67).mp3",
+    "arabic_text": "هذا هو"
   },
   {
     "id": 328,
@@ -2949,7 +3276,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(69).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(69).mp3",
+    "arabic_text": "اغلبك"
   },
   {
     "id": 329,
@@ -2958,7 +3286,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_2.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_2.wav",
+    "arabic_text": "بتدخل"
   },
   {
     "id": 330,
@@ -2967,7 +3296,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(39).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(39).mp3",
+    "arabic_text": "بكتب"
   },
   {
     "id": 331,
@@ -2976,7 +3306,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_11.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_11.wav",
+    "arabic_text": "بقعد"
   },
   {
     "id": 332,
@@ -2985,7 +3316,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(348).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(348).mp3",
+    "arabic_text": "جواب"
   },
   {
     "id": 333,
@@ -2994,7 +3326,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(349).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(349).mp3",
+    "arabic_text": "كمبيوتر"
   },
   {
     "id": 334,
@@ -3003,7 +3336,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(357).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(357).mp3",
+    "arabic_text": "لوح"
   },
   {
     "id": 335,
@@ -3012,7 +3346,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(358).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(358).mp3",
+    "arabic_text": "جمله"
   },
   {
     "id": 336,
@@ -3021,7 +3356,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(78).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(78).mp3",
+    "arabic_text": "طب"
   },
   {
     "id": 337,
@@ -3030,7 +3366,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword+(14).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Glossary_med/Glossaryword+(14).mp3",
+    "arabic_text": "احسن"
   },
   {
     "id": 338,
@@ -3039,7 +3376,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(410).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(410).mp3",
+    "arabic_text": "سهل"
   },
   {
     "id": 339,
@@ -3048,7 +3386,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(428).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(428).mp3",
+    "arabic_text": "برا"
   },
   {
     "id": 340,
@@ -3057,7 +3396,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(429).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(429).mp3",
+    "arabic_text": "جوع"
   },
   {
     "id": 341,
@@ -3066,7 +3406,8 @@
     "lesson": 6,
     "unit": 3,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(72).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(72).mp3",
+    "arabic_text": "متاسف"
   },
   {
     "id": 342,
@@ -3075,7 +3416,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(71).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(71).mp3",
+    "arabic_text": "طبعا"
   },
   {
     "id": 343,
@@ -3084,7 +3426,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_5.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_5.wav",
+    "arabic_text": "بطبخ"
   },
   {
     "id": 344,
@@ -3093,7 +3436,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_6.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_6.wav",
+    "arabic_text": "بطل"
   },
   {
     "id": 345,
@@ -3102,7 +3446,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(360).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(360).mp3",
+    "arabic_text": "عيد"
   },
   {
     "id": 346,
@@ -3111,7 +3456,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(380).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(380).mp3",
+    "arabic_text": "طبخه"
   },
   {
     "id": 347,
@@ -3120,7 +3466,8 @@
     "lesson": 6,
     "unit": 4,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(418).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(418).mp3",
+    "arabic_text": "خرافي"
   },
   {
     "id": 348,
@@ -3129,7 +3476,8 @@
     "lesson": 6,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(346).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(346).mp3",
+    "arabic_text": "شغل ايد"
   },
   {
     "id": 349,
@@ -3138,7 +3486,8 @@
     "lesson": 6,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(347).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(347).mp3",
+    "arabic_text": "ايد"
   },
   {
     "id": 350,
@@ -3147,7 +3496,8 @@
     "lesson": 6,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(359).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(359).mp3",
+    "arabic_text": "كاسة"
   },
   {
     "id": 351,
@@ -3156,7 +3506,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(68).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(68).mp3",
+    "arabic_text": "الله يطول عمرها"
   },
   {
     "id": 352,
@@ -3165,7 +3516,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(224).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(224).mp3",
+    "arabic_text": "11"
   },
   {
     "id": 353,
@@ -3174,7 +3526,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(231).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(231).mp3",
+    "arabic_text": "12"
   },
   {
     "id": 354,
@@ -3183,7 +3536,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(228).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(228).mp3",
+    "arabic_text": "13"
   },
   {
     "id": 355,
@@ -3192,7 +3546,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(225).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(225).mp3",
+    "arabic_text": "14"
   },
   {
     "id": 356,
@@ -3201,7 +3556,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(226).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(226).mp3",
+    "arabic_text": "15"
   },
   {
     "id": 357,
@@ -3210,7 +3566,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(230).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(230).mp3",
+    "arabic_text": "16"
   },
   {
     "id": 358,
@@ -3219,7 +3576,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(227).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(227).mp3",
+    "arabic_text": "17"
   },
   {
     "id": 359,
@@ -3228,7 +3586,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(229).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(229).mp3",
+    "arabic_text": "18"
   },
   {
     "id": 360,
@@ -3237,7 +3596,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם המספר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(232).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(232).mp3",
+    "arabic_text": "19"
   },
   {
     "id": 361,
@@ -3246,7 +3606,8 @@
     "lesson": 6,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(354).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(354).mp3",
+    "arabic_text": "ست"
   },
   {
     "id": 362,
@@ -3255,7 +3616,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(73).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(73).mp3",
+    "arabic_text": "شو بدنا نعمل"
   },
   {
     "id": 363,
@@ -3264,7 +3626,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_16.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_16.wav",
+    "arabic_text": "ممكن تعملي لي معروف"
   },
   {
     "id": 364,
@@ -3273,7 +3636,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(79).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(79).mp3",
+    "arabic_text": "كل يوم"
   },
   {
     "id": 365,
@@ -3282,7 +3646,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(113).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(113).mp3",
+    "arabic_text": "لحد"
   },
   {
     "id": 366,
@@ -3291,7 +3656,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(41).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Male/Pluralconj+(41).mp3",
+    "arabic_text": "يعمل"
   },
   {
     "id": 367,
@@ -3300,7 +3666,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(345).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(345).mp3",
+    "arabic_text": "قانون"
   },
   {
     "id": 368,
@@ -3309,7 +3676,8 @@
     "lesson": 6,
     "unit": 7,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(75).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(75).mp3",
+    "arabic_text": "اكثر"
   },
   {
     "id": 369,
@@ -3318,7 +3686,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(81).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(81).mp3",
+    "arabic_text": "اجاك"
   },
   {
     "id": 370,
@@ -3327,7 +3696,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(82).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(82).mp3",
+    "arabic_text": "وحياه ربي"
   },
   {
     "id": 371,
@@ -3336,7 +3706,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "תואר הפועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(83).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(83).mp3",
+    "arabic_text": "عن جد"
   },
   {
     "id": 372,
@@ -3345,7 +3716,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(84).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(84).mp3",
+    "arabic_text": "كله تمام"
   },
   {
     "id": 373,
@@ -3354,7 +3726,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(86).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(86).mp3",
+    "arabic_text": "بسيطه"
   },
   {
     "id": 374,
@@ -3363,7 +3736,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(87).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(87).mp3",
+    "arabic_text": "حبيبي"
   },
   {
     "id": 375,
@@ -3372,7 +3746,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(88).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(88).mp3",
+    "arabic_text": "حاضر"
   },
   {
     "id": 376,
@@ -3381,7 +3756,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(85).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(85).mp3",
+    "arabic_text": "اسف"
   },
   {
     "id": 377,
@@ -3390,7 +3766,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_7.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/raghd/raghd_7.wav",
+    "arabic_text": "بنت"
   },
   {
     "id": 379,
@@ -3399,7 +3776,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(375).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(375).mp3",
+    "arabic_text": "طريق"
   },
   {
     "id": 380,
@@ -3408,7 +3786,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(416).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(416).mp3",
+    "arabic_text": "نصيحه"
   },
   {
     "id": 378,
@@ -3417,7 +3796,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(368).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(368).mp3",
+    "arabic_text": "افريقيا"
   },
   {
     "id": 381,
@@ -3426,7 +3806,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(411).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(411).mp3",
+    "arabic_text": "بسيط"
   },
   {
     "id": 382,
@@ -3435,7 +3816,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם תואר",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(412).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(412).mp3",
+    "arabic_text": "عشان"
   },
   {
     "id": 383,
@@ -3444,7 +3826,8 @@
     "lesson": 7,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(417).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(417).mp3",
+    "arabic_text": "ختيار"
   },
   {
     "id": 384,
@@ -3453,7 +3836,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(364).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(364).mp3",
+    "arabic_text": "قنينه"
   },
   {
     "id": 385,
@@ -3462,7 +3846,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(367).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(367).mp3",
+    "arabic_text": "محل"
   },
   {
     "id": 386,
@@ -3471,7 +3856,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.11.wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/VocabTableMed/les1/2.11.wav",
+    "arabic_text": "دكتور"
   },
   {
     "id": 387,
@@ -3480,7 +3866,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(373).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(373).mp3",
+    "arabic_text": "تليفون"
   },
   {
     "id": 388,
@@ -3489,7 +3876,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(414).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(414).mp3",
+    "arabic_text": "مريض"
   },
   {
     "id": 389,
@@ -3498,7 +3886,8 @@
     "lesson": 7,
     "unit": 4,
     "part_of_speech": "תואר השם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(415).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(415).mp3",
+    "arabic_text": "ملان"
   },
   {
     "id": 390,
@@ -3507,7 +3896,8 @@
     "lesson": 7,
     "unit": 5,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(196).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(196).mp3",
+    "arabic_text": "كان"
   },
   {
     "id": 391,
@@ -3516,7 +3906,8 @@
     "lesson": 7,
     "unit": 6,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(80).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(80).mp3",
+    "arabic_text": "شوفوني"
   },
   {
     "id": 392,
@@ -3525,7 +3916,8 @@
     "lesson": 7,
     "unit": 6,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(377).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(377).mp3",
+    "arabic_text": "حياه"
   },
   {
     "id": 393,
@@ -3534,7 +3926,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(89).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(89).mp3",
+    "arabic_text": "ولا بطيخ"
   },
   {
     "id": 394,
@@ -3543,7 +3936,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(90).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(90).mp3",
+    "arabic_text": "مصل"
   },
   {
     "id": 395,
@@ -3552,7 +3946,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "מילת קישור",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(137).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(137).mp3",
+    "arabic_text": "اللي"
   },
   {
     "id": 396,
@@ -3561,7 +3956,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(159).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(159).mp3",
+    "arabic_text": "انو"
   },
   {
     "id": 397,
@@ -3570,7 +3966,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(160).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(160).mp3",
+    "arabic_text": "انا"
   },
   {
     "id": 398,
@@ -3579,7 +3976,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(161).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(161).mp3",
+    "arabic_text": "اي"
   },
   {
     "id": 399,
@@ -3588,7 +3986,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(361).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(361).mp3",
+    "arabic_text": "اواعي الشغل"
   },
   {
     "id": 400,
@@ -3597,7 +3996,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(362).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(362).mp3",
+    "arabic_text": "اواعي العيد"
   },
   {
     "id": 401,
@@ -3606,7 +4006,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(363).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(363).mp3",
+    "arabic_text": "اواعي"
   },
   {
     "id": 402,
@@ -3615,7 +4016,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(365).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(365).mp3",
+    "arabic_text": "قميص"
   },
   {
     "id": 403,
@@ -3624,7 +4026,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(366).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(366).mp3",
+    "arabic_text": "بلوزه"
   },
   {
     "id": 404,
@@ -3633,7 +4036,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(369).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(369).mp3",
+    "arabic_text": "طاقيه"
   },
   {
     "id": 405,
@@ -3642,7 +4046,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(370).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(370).mp3",
+    "arabic_text": "بلد"
   },
   {
     "id": 406,
@@ -3651,7 +4056,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(371).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(371).mp3",
+    "arabic_text": "سوق"
   },
   {
     "id": 407,
@@ -3660,7 +4066,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(374).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(374).mp3",
+    "arabic_text": "خزانه"
   },
   {
     "id": 408,
@@ -3669,7 +4076,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(21).wav"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Med/BeginnersMed/Unit1small/Med_Unit1small+(21).wav",
+    "arabic_text": "قلب"
   },
   {
     "id": 409,
@@ -3678,7 +4086,8 @@
     "lesson": 7,
     "unit": 7,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(413).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(413).mp3",
+    "arabic_text": "موجود"
   },
   {
     "id": 410,
@@ -3687,7 +4096,8 @@
     "lesson": 8,
     "unit": 2,
     "part_of_speech": "מילת שאלה",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(162).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(162).mp3",
+    "arabic_text": "وانت"
   },
   {
     "id": 411,
@@ -3696,7 +4106,8 @@
     "lesson": 8,
     "unit": 3,
     "part_of_speech": "כינוי רמז",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(126).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(126).mp3",
+    "arabic_text": "حد"
   },
   {
     "id": 412,
@@ -3705,7 +4116,8 @@
     "lesson": 8,
     "unit": 3,
     "part_of_speech": "מילת יחס",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(147).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(147).mp3",
+    "arabic_text": "عشان"
   },
   {
     "id": 413,
@@ -3714,7 +4126,8 @@
     "lesson": 8,
     "unit": 3,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(379).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(379).mp3",
+    "arabic_text": "دقيقه"
   },
   {
     "id": 414,
@@ -3723,7 +4136,8 @@
     "lesson": 8,
     "unit": 4,
     "part_of_speech": "פועל",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(197).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(197).mp3",
+    "arabic_text": "اخذ"
   },
   {
     "id": 415,
@@ -3732,7 +4146,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(91).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(91).mp3",
+    "arabic_text": "انا اسعد"
   },
   {
     "id": 416,
@@ -3741,7 +4156,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(92).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(92).mp3",
+    "arabic_text": "عفوا"
   },
   {
     "id": 417,
@@ -3750,7 +4166,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(93).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(93).mp3",
+    "arabic_text": "اهلين"
   },
   {
     "id": 418,
@@ -3759,7 +4176,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(94).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(94).mp3",
+    "arabic_text": "بنجاح"
   },
   {
     "id": 419,
@@ -3768,7 +4186,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(95).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(95).mp3",
+    "arabic_text": "اهلا"
   },
   {
     "id": 420,
@@ -3777,7 +4196,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(96).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(96).mp3",
+    "arabic_text": "مساء الخير"
   },
   {
     "id": 421,
@@ -3786,7 +4206,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(97).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(97).mp3",
+    "arabic_text": "مساء النور"
   },
   {
     "id": 422,
@@ -3795,7 +4216,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(420).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(420).mp3",
+    "arabic_text": "هلا"
   },
   {
     "id": 423,
@@ -3804,7 +4226,8 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "ביטוי שימושי",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(99).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(99).mp3",
+    "arabic_text": "شو الوضع"
   },
   {
     "id": 424,
@@ -3813,6 +4236,7 @@
     "lesson": 8,
     "unit": 5,
     "part_of_speech": "שם עצם",
-    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(376).mp3"
+    "audio": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(376).mp3",
+    "arabic_text": "مساء"
   }
 ]

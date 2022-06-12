@@ -308,26 +308,11 @@ $(".card").each(function (index, card) {
 });
 
 
-//buttons code:
 //new click when we want to restart the game
-$(".restart-btn").click(function () {
-    count = 0;
-    timeCount = 0;
-    if (lesson != null) {
-      window.location.href="index.html?lesson=" + lesson;
-    } else {
-      window.location.href="index.html";
-    }
-});
+$(".restart-btn").on("click", e=> location.reload());
 
 //new restart when we want to restart the game when it ends
-$(".another_game-btn").click(function () {
-  if (lesson != null) {
-    window.location.href="index.html?lesson=" + lesson;
-  } else {
-    window.location.href="index.html";
-  }
-});
+$(".another_game-btn").on("click", e=> location.reload());
 
 
 // to show all the words in the end
