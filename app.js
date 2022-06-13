@@ -196,7 +196,7 @@ for (const element of array_of_random_indexes) {
       if(game_type === "audio"){
         d1.insertAdjacentHTML("beforeend",
         "<div class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" + 
-        " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.png\" width=\"80\" alt=\"play audio\" />  </div>"
+        " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.png\" width=\"60\" alt=\"play audio\" />  </div>"
         );
 
       } else {
