@@ -55,16 +55,14 @@ $("#create-game").on("click", function () {
     }
     else {
         if (selectedMedia == "text") {
-            media = 0;
+            selectedMedia = 0;
+        }
+
+        if (selectedUnit && selectedUnit != 0) {
+            url = createUrl(selectedLesson + ":" + selectedUnit, selectedMedia);
         }
         else {
-            media = selectedMedia;
-        }
-        if(selectedUnit != 0){
-             url = createUrl(selectedLesson + ":" + selectedUnit, media);
-        }
-        else{
-             url = createUrl(selectedLesson, 0 , media);
+            url = createUrl(selectedLesson, selectedMedia);
         }
         $(".result a").attr("href", url).html(url);
         $(".result .iframe textarea").html(`<iframe

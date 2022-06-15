@@ -27,16 +27,29 @@ header {
 
 .main {
     display: flex;
-   
+
 }
 
+@media screen and (max-width:600px) {
+    .main {
+        display: block;
+    
+    }
+    
+}
+
+.configuration{
+    padding:0 20px;
+}
+.configuration div{
+    margin-bottom:6px;
+}
 .result {
     display: none;
     padding: 20px;
-    margin: 20px;
     text-align: center;
     border: 1px solid gray;
-    flex:1;
+    flex: 1;
 }
 
 .result .iframe {
@@ -49,33 +62,5 @@ header {
     flex: 1;
     direction: ltr;
     margin: 10px;
-    height:100px;
-}
-
-
-
-
-/* input, button, textarea{
-    display:block;
-    width:100%;
-    margin:5px 0;
-    height:30px;
-}
-button{
-    font-size:18px;
-} */
-
-#add-btn {
-    /* background: rgb(44, 196, 102); */
-    border: none;
-    /*color: white;
-    background-color: white;*/
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    cursor: pointer;
-    /*margin-left: 30px;
-    margin-bottom: 5px;*/
-
+    height: 100px;
 }
