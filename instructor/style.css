@@ -1,17 +1,61 @@
-body, body *{
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:16px;
+@font-face {
+    font-family: "Abraham";
+    src: url("../font/AbrahamTRIAL-Regular.otf");
 }
-h1{
-    font-size:28px;
+
+body,
+body * {
+    font-family: "Abraham", Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+header h1 {
+    font-size: 24px;
     text-align: center;
-    text-decoration: underline;
+    font-weight: bold;
+
 }
-.container{
-    max-width:700px;
-    margin:auto;
+
+header {
+    text-align: center;
 }
-input, button, textarea{
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.main {
+    display: flex;
+   
+}
+
+.result {
+    display: none;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid gray;
+    flex:1;
+}
+
+.result .iframe {
+    display: flex;
+    margin: 30px;
+    align-items: center;
+}
+
+.result textarea {
+    flex: 1;
+    direction: ltr;
+    margin: 10px;
+    height:100px;
+}
+
+
+
+
+/* input, button, textarea{
     display:block;
     width:100%;
     margin:5px 0;
@@ -19,14 +63,13 @@ input, button, textarea{
 }
 button{
     font-size:18px;
-}
+} */
 
 #add-btn {
     /* background: rgb(44, 196, 102); */
     border: none;
     /*color: white;
     background-color: white;*/
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -34,5 +77,5 @@ button{
     cursor: pointer;
     /*margin-left: 30px;
     margin-bottom: 5px;*/
-    
+
 }

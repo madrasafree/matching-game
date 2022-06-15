@@ -1,29 +1,86 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Matching Game Generator</title>
-    <meta property="og:title" content="Madrasa Matching Game" />
-    <meta property="og:image" content="https://madrasa-site-images.s3.eu-west-3.amazonaws.com/images/logo.png" />
-    <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-    <div class="container">
-      <h1>Madrasa Game Generator</h1>
-      <div id="new_lesson">
-        <label> Lesson<br><input id="lesson_0" type="text" ><label> 
-        <label> Unit<br><input id="unit_0" type="text" ><label>
-         <label> -----------------------------------------------------------------------------------------------------------------------------------<br><label>
-      </div>
-      <button id="add-btn">+</button>
-      <button id="create-btn">Create code</button> 
- 
-     <textarea id="output-textarea">
-     </textarea>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Matching Game Generator</title>
+  <meta property="og:title" content="Madrasa Matching Game" />
+  <meta property="og:image" content="https://madrasa-site-images.s3.eu-west-3.amazonaws.com/images/logo.png" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body dir="rtl">
+  <div class="container">
+    <header>
+      <img src="../images/logo.png" alt="Madsasa's logo" width="110">
+      <img src="https://madrasa-images.s3.eu-west-2.amazonaws.com/new-designs/play.png" width="85" alt="play" />
+      <h1>משחק התאמת כרטיסיות - ממשק מדריך
+      </h1>
+
+    </header>
+    <section class="introduction">
+      <p>
+        ממשק זה מיועד ליצירת משחק התאמת כרטיסיות ביחידות לימוד שונות בקורס המתחילים של מדרסה תוך שימוש במדיות שונות
+        (טקסט
+        ואודיו).
+        יש לבחור שיעור ויחידה מתוך קורס המתחילים ואז לבחור את המדיה הרצויה עבור הערבית.
+      </p>
+
+    </section>
+    <div class="main">
+      <section class="configuration">
+        <div>
+          שיעור
+          <select class="lesson">
+          </select>
+        </div>
+        <div>
+          יחידה בשיעור
+
+          <select class="unit" disabled>
+            <option selected disabled>יחידה</option>
+          </select>
+        </div>
+        <div>
+          מדיה
+          <select class="media">
+
+            <option value="text">ערבית בתעתיק</option>
+            <option value="audio">ערבית באודיו </option>
+
+          </select>
+        </div>
+
+        <button id="create-game">
+          יצירת משחק
+        </button>
+
+      </section>
+
+      <section class="result">
+
+        <div class="url">
+          <p>
+            יצרתם משחק חדש!
+          </p>
+          לצפייה במשחק <br>
+          <a href="#" target="_blank">
+
+          </a>
+        </div>
+
+        <div class="iframe">
+
+          <textarea></textarea>
+          <button class="copy-code">העתקת קוד הטמעה</button>
+        </div>
+      </section>
+
     </div>
 
-
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="script.js"></script>
-  </body>
+</body>
+
 </html>

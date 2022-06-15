@@ -1,97 +1,122 @@
-
-var lessons_array = [];
-var counter = 0;
-
-function createIframeCode(lesson){
-    console.log("lesson is: ")
-    console.log(lesson)
-    let code 
-    if (lesson){
-        //get game path parent directory of instructor directory
-        code = location.href.substring(0,location.href.indexOf("instructor"))
- +"?lesson=" + lesson;
-    }
-    else{
-         code = location.href.substring(0,location.href.indexOf("instructor"));
-    }
-    //`<iframe src="/static/vocabulary-table.html" data-lesson="${lesson}" data-unit="${unit}" scrolling="no"> </iframe>`;
-    return code;
+function loadJson(url) {
+    var json;
+    $.ajax({
+        url: url,
+        async: false,
+        dataType: "json",
+        success: function (response) {
+            json = response;
+        },
+    });
+    return json;
 }
 
 
-function copyCode(){
-     outputTextarea.select();
-     document.execCommand("copy");
-}
-
-const createBtn = document.querySelector("#create-btn");
-const addBtn = document.querySelector("#add-btn");
-const outputTextarea = document.querySelector("#output-textarea");
-
-
-createBtn.addEventListener("click",function(){
-    let lessons_str = ''; 
-    for (i = 0; i <= counter; i++) {
-        let lesson = document.querySelector("#lesson_" + i).value; 
-        let units = document.querySelector("#unit_"+ i).value;
-        console.log("lesson is here: ")
-        console.log(lesson);
-        if(lesson){
-            lessons_str += lesson
+function createUrl(lesson, media) {
+    let url = location.href.substring(0, location.href.indexOf("instructor"));
+    if (lesson || media) {
+        url += "?";
+        if (lesson) {
+            url += "lesson=" + lesson;
+            if (media) {
+                url += "&media=" + media;
+            }
         }
-
-        if (lesson && units) {
-            // lessons_str += lesson
-            lessons_str += ":"
-            lessons_str += units
-            lessons_str += "$" 
-        }
-
-        if (lesson && !units) {
-            lessons_str += "$" 
+        else {
+            if (media) {
+                url += "media=" + media;
+            }
         }
     }
+    return url;
+}
 
-    // lessons_array.push(lesson);
-    // lessons_array.push(":");
-    // lessons_array.push(units);
-    // lessons_array.push("$");
-   
-    console.log(lessons_str);
-   let code = createIframeCode(lessons_str);
-   outputTextarea.innerHTML = code;
-   copyCode();
+function getUniques(data, filter) {
+    let uniques = [];
+    for (var i = 0; i < data.length; i++) {
+        if (!data.includes(data[i][filter])) {
+            if (!uniques.includes(data[i][filter])) {
+                uniques.push(data[i][filter]);
+            }
+        }
+    }
+    return uniques;
+}
+
+
+$("#create-game").on("click", function () {
+    selectedLesson = $(".lesson").val();
+    selectedUnit = $(".unit").val();
+    selectedMedia = $(".media").val();
+
+
+    if (!selectedLesson) {
+        alert("נא לבחור שיעור");
+    }
+    else {
+        if (selectedMedia == "text") {
+            media = 0;
+        }
+        else {
+            media = selectedMedia;
+        }
+        if(selectedUnit != 0){
+             url = createUrl(selectedLesson + ":" + selectedUnit, media);
+        }
+        else{
+             url = createUrl(selectedLesson, 0 , media);
+        }
+        $(".result a").attr("href", url).html(url);
+        $(".result .iframe textarea").html(`<iframe
+         src="${url}" style="width:100%;height:90vh">
+</iframe>`);
+        $(".result").show();
+    }
 });
 
 
-addBtn.addEventListener("click",function(i){
-   // let lesson =  document.querySelector("#lesson").value; 
-   // let unit = document.querySelector("#unit").value; 
-   // let code = createIframeCode(unit, lesson);
-   // outputTextarea.innerHTML = code;
-   // copyCode();
-   counter++;
-   console.log("counter is: ")
-   console.log(counter)
-   var d1 = document.getElementById("new_lesson")
-    d1.insertAdjacentHTML("beforeend",
-        "<div id=\"new_lesson\">\n" + 
-        "<label> Lesson<br><input id=\"lesson_" + counter + "\" type=\"text\" ><label>\n" + 
-        "<label> Unit<br><input id=\"unit_" + counter + "\" type=\"text\" ><label>\n" +
-        "<label> -----------------------------------------------------------------------------------------------------------------------------------<br><label>\n" +
-        "</div>\n"
-    );
 
 
+$(".copy-code").on("click", function () {
+    $(".iframe textarea").select();
+    document.execCommand("copy");
+})
+
+let selectedLesson = 0;
+let selectedUnit = 0;
+let selectedMedia = 0;
+let gameNumWords = 0;
+let url;
+
+
+let allwords = loadJson("../vocab.json");
+
+let lessons = []
+lessons = getUniques(allwords, "lesson");
+
+
+lessons.forEach(function (lesson) {
+    let element = `<option value="${lesson}">${lesson}</option>`;
+    $(".lesson").append(element);
 });
 
-// $("#add-btn").click(function () {
-//     var d1 = document.getElementById("new_lesson")
-//     d1.insertAdjacentHTML("beforeend",
-//         "<div id=\"new_lesson\">\n" + 
-//         "<label> Lesson<br><input id=\"lesson\" type=\"text\" ><label>\n" + 
-//         "<label> Unit<br><input id=\"unit\" type=\"text\" ><label>\n" +
-//         "<button id=\"add-btn\">+</button>\n" +
-//         "</div>\n"
-//     );
-// });
+
+$(".lesson").on("change", function () {
+
+    selectedLesson = $(this).val();
+    let units = [];
+    lessonWords = allwords.filter(function (word) {
+        return word.lesson == selectedLesson;
+    });
+    units = getUniques(lessonWords, "unit");
+    $(".unit").empty();
+    $(".unit").append('<option value="0">שיעור שלם</option>');
+    $(".unit").removeAttr("disabled");
+    units.forEach(function (unit) {
+        let element = `<option value="${unit}">${unit}</option>`;
+        $(".unit").append(element);
+
+    });
+});
+
+
