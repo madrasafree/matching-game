@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Madrasa Matching Game</title>
+  <meta property="og:title" content="Madrasa Matching Game" />
+  <meta property="og:image" content="https://madrasa-site-images.s3.eu-west-3.amazonaws.com/images/logo.png" />
+  <link rel="stylesheet" href="../style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+  </script>
+</head>
+
+<style>
+  li {
+    font-size: 28px;
+  }
+</style>
+
+<body>
+  <ul class="words_list"></ul>
+
+  <!-- <div class="madrasa-course-content">
+      <div class="image-container">
+        <img
+          src="https://madrasa-images.s3.eu-west-2.amazonaws.com/new-designs/play.png"
+          width="120"
+          alt="play"
+        />
+      </div>
+    </div> -->
+  <div class="game">
+
+
+  <div class="above_board">
+    
+    <span  class="image-container">
+        <!-- <div class="image-container"> -->
+          <img src="https://madrasa-images.s3.eu-west-2.amazonaws.com/new-designs/play.png" width="120" alt="play" />
+        <!-- </div> -->
+    </span>
+
+    <span  class="restart-btn-container">
+      <img class="restart-btn" src="../images/images.png" width="50" height="50" />
+    </span>
+    <span class="explanation-container">
+      <h2 class="instructions">
+        התאימו את המילים בערבית לפירוש העברי שלהן
+      </h2>
+    </span>
+
+    <span class="timer-container">
+      <h2>
+        <label id="timer">00</label>:<label id="seconds">00</label>
+      </h2>
+    </span>
+  </div>
+
+  <div class="board">
+
+    <div class="madrasa-course-content end">
+      <div id="end_prints">
+        <h3>
+          כֻּל אִלְאִחְתִרַאם! כל הכבוד! הצלחתם להתאים את כל המילים. המשיכו כך!
+        </h3>
+        <div> הזמן שלך:
+          <label id="finish_timer">00</label>:<label id="finish_seconds">00</label>
+        </div>
+        <div>
+          <button class="another_game-btn">עוד משחק?</button>
+        </div>
+        <div id="words_display">
+          <button id="words_display-btn">הצג מילים</button>
+          <div id="words_learned"></div>
+        </div>
+        <div id="words_hide"></div>
+        <button id="words_hide-btn">הסתר מילים</button>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+  <div id="popup_container">
+    <div class="popup">
+      <h2 class="instructions">התאימו את המילים בערבית לפירוש העברי שלהן </h2>
+      <button id="start_game-btn">התחל משחק</button>
+    </div>
+  </div>
+
+
+
+
+
+  <div id="cards-container">
+
+  </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
