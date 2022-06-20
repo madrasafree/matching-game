@@ -282,9 +282,9 @@ $(".card").each(function (index, card) {
 
             } else { // if wrong
                 $(this).css("outline", "2px solid red");
-                $(this).css("background", "red");
+                $(this).css("background", "#ff000091");
                 currentCard.css("outline", "2px solid red");
-                currentCard.css("background", "red");
+                currentCard.css("background", "#ff000091");
                 var thisCard = $(this);
                 currentCard.css("animation", "shake 0.5s");
                 thisCard.css("animation", "shake 0.5s");
