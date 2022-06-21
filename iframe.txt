@@ -1,0 +1,11 @@
+<iframe id="game_iframe" src="/" width="100%" style="border:0;overflow:scroll"></iframe>
+<script>
+
+    window.onmessage = e => document.querySelector("#game_iframe").style.height = e.data;
+    window.onload = function () {
+        fetch('https://courses.madrasafree.com/api/user/v1/me').then(response => response.json()).then(data => {
+            document.querySelector("#iframe_1452").contentWindow.postMessage({ username: data.username }, "*");
+        });
+    }
+
+</script>
