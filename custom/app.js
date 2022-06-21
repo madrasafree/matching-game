@@ -136,7 +136,7 @@ let filteredWords;
 if (!(gameId in allwords)) {
     console.log("משחק לא קיים!");
 } else {
-     filteredWords = allwords[gameId];
+    filteredWords = allwords[gameId];
     // console.log(filterWords);
 }
 
@@ -350,3 +350,11 @@ $("#words_hide-btn").click(function () {
     $('#words_hide-btn').css("display", "none");
 });
 
+parent.postMessage(document.body.offsetHeight + "px", "*");
+
+window.addEventListener("message", function (event) {
+    if (event.data.username) {
+        document.querySelector(".username").innerHTML = event.data.username;
+    }
+
+});
