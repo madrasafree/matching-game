@@ -134,7 +134,6 @@ label {
 
 .restart-btn {
     border: none;
-    color: white;
     background-color: white;
     cursor: pointer;
     padding-right: 1em;
@@ -196,7 +195,7 @@ label {
 
 .another_game-btn {
     /* width: 8em; */
-    background: rgb(27, 100, 55);
+     background: #244080;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -210,7 +209,7 @@ label {
 
 #words_display-btn {
     width: 8em;
-    background: rgb(27, 100, 55);
+    background: #244080;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -224,7 +223,7 @@ label {
 
 #words_hide-btn {
     width: 8em;
-    background: rgb(27, 100, 55);
+    background:#244080;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -508,7 +507,6 @@ html {
     }
   
   body {
-    overflow: hidden;
     width: 100%;
     height: 100%;
   }
