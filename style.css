@@ -21,7 +21,9 @@
     justify-content: space-around;
 
 }
-
+.above_board   h2{
+    margin:0;
+}
 .madrasa-course-content h3 {
     font-size: 28px;
     color: #244080;
@@ -30,8 +32,18 @@
 
 
 .image-container img {
-    width: 13%;
-    min-width: 80px;
+    /* width: 13%;
+    min-width: 80px; */
+    width:100px;
+}
+
+.instructions{
+    font-size:24px;
+}
+
+.above_board i{
+    font-size:36px;
+    color:#244080;
 }
 
 body {
@@ -106,7 +118,7 @@ label {
     width: 100%;
     margin: 0 auto;
     max-width: 840px;
-    padding-bottom: 1.5%;
+    /* padding-bottom: 1.5%; */
     font-size: 110%;
 
 }
@@ -119,6 +131,8 @@ label {
 
 .restart-btn-container {
     order: 1;
+    display:flex;
+    align-items: center;
 }
 
 .restart-btn {
@@ -132,15 +146,19 @@ label {
 
 .explanation-container {
     text-align: center;
-    color: rgb(27, 100, 55);
+    color: #244080;
     padding: 0% 2%;
     order: 2;
+    font-family: "Abraham-Light";
 }
 
 .timer-container {
-    color: rgb(27, 100, 55);
+    color: #244080;
     padding: 0% 1%;
     order: 3;
+    font-family: "Abraham-Light";
+    display: flex;
+    align-items: center;
 }
 
 
@@ -368,13 +386,13 @@ label {
 
     .above_board {
         width: 90%;
-        padding-bottom: 1%;
+        /* padding-bottom: 1%; */
         font-size: 100%;
         flex-wrap: wrap;
         flex-direction: row;
         justify-content: space-between;
         margin: 0 auto;
-        margin-bottom: 1%;
+        /* margin-bottom: 1%; */
 
     }
 

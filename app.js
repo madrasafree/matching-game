@@ -265,6 +265,10 @@ $(".card").each(function (index, card) {
         setTimeout(function () {
           match.css("visibility", "hidden");
           currentCard = undefined;
+          
+          
+          // let correctAudio = new Audio("/images/correct.mp3");
+          // correctAudio.play();
 
           if (count == 8) {
             clearInterval(timer);
@@ -272,6 +276,7 @@ $(".card").each(function (index, card) {
             document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
             $("#cards-container").css("display", "none");
             $(".end").css("display", "block");
+            new Audio("/images/applause.mp3").play();
           }
           cards.forEach(card => { //enable clicking on more cards
             card.style.pointerEvents = 'auto';
