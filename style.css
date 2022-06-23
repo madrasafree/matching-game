@@ -167,32 +167,6 @@ label {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .another_game-btn {
     /* width: 8em; */
     background: rgb(30 85 88);
@@ -399,7 +373,6 @@ label {
 
     .restart-btn {
         border: none;
-        color: white;
         background-color: white;
         cursor: pointer;
 
