@@ -21,12 +21,14 @@
     justify-content: space-around;
 
 }
-.above_board   h2{
-    margin:0;
+
+.above_board h2 {
+    margin: 0;
 }
+
 .madrasa-course-content h3 {
     font-size: 28px;
-    color: #244080;
+    color: rgb(30 85 88);
     margin: 0;
 }
 
@@ -34,11 +36,11 @@
 .image-container img {
     /* width: 13%;
     min-width: 80px; */
-    width:100px;
+    width: 100px;
 }
 
-.instructions{
-    font-size:24px;
+.instructions {
+    font-size: 24px;
 }
 
 
@@ -117,6 +119,7 @@ label {
     max-width: 840px;
     /* padding-bottom: 1.5%; */
     font-size: 110%;
+    color: rgb(10 80 76);
 
 }
 
@@ -128,7 +131,7 @@ label {
 
 .restart-btn-container {
     order: 1;
-    display:flex;
+    display: flex;
     align-items: center;
 }
 
@@ -138,13 +141,11 @@ label {
     cursor: pointer;
     padding-right: 1em;
     margin: 20% 2%;
-    font-size:36px;
-    color: rgb(1, 84, 1);
+    font-size: 36px;
 }
 
 .explanation-container {
     text-align: center;
-    color: rgb(1, 84, 1);
     padding: 0% 2%;
     order: 2;
     font-family: "Abraham-Light";
@@ -153,7 +154,6 @@ label {
 }
 
 .timer-container {
-    color: rgb(1, 84, 1);
     padding: 0% 1%;
     order: 3;
     font-family: "Abraham-Light";
@@ -195,7 +195,7 @@ label {
 
 .another_game-btn {
     /* width: 8em; */
-     background: #244080;
+    background: rgb(30 85 88);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -209,7 +209,7 @@ label {
 
 #words_display-btn {
     width: 8em;
-    background: #244080;
+    background: rgb(30 85 88);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -223,7 +223,7 @@ label {
 
 #words_hide-btn {
     width: 8em;
-    background:#244080;
+    background: rgb(30 85 88);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -504,44 +504,37 @@ html {
     --purple: #5767ED;
     --yellow: #FFC61C;
     --rotation: 0deg;
-    }
-  
-  body {
-    width: 100%;
-    height: 100%;
-  }
-  
-  @keyframes scaleCup {
-    0% {
-      transform: scale(0.6);
-    } 
-    
-    100% {
-      transform: scale(1);
-    }
-  }
+}
 
-  @keyframes confettiRain {
+@keyframes scaleCup {
     0% {
-      opacity: 1;
-      margin-top: -100vh;
-      margin-left: -200px;
-    } 
-    
-    100% {
-      opacity: 1;
-      margin-top: 100vh;
-      margin-left: 200px;
+        transform: scale(0.6);
     }
-  }
-  
-  .confetti {
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes confettiRain {
+    0% {
+        opacity: 1;
+        margin-top: -100vh;
+        margin-left: -200px;
+    }
+
+    100% {
+        opacity: 1;
+        margin-top: 100vh;
+        margin-left: 200px;
+    }
+}
+
+.confetti {
     opacity: 0;
     position: absolute;
     width: 1rem;
     height: 1.5rem;
     transition: 500ms ease;
     animation: confettiRain 5s infinite;
-  }
-  
- 
+}
