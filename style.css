@@ -60,7 +60,6 @@ body {
     margin: 0 auto;
     justify-content: space-around;
     padding: 20px;
-
 }
 
 .board {
@@ -70,7 +69,6 @@ body {
     margin: auto;
 }
 
-/* TODO - fix cards size */
 .card {
     word-wrap: break-word;
     width: 21%;
@@ -85,6 +83,9 @@ body {
     box-shadow: 2px 2px 4px grey;
     border-radius: 10px;
     user-select: none;
+    display: flex;
+    align-items:center ;
+    justify-content:center ;
 
 }
 
@@ -100,10 +101,11 @@ label {
     width: 100%;
     min-height: 100%;
     padding: 8px;
+    color: rgb(25, 72, 74);
 }
 
 .end {
-    display: none;
+    display: none; 
 }
 
 
@@ -168,7 +170,7 @@ label {
 
 
 .another_game-btn {
-    /* width: 8em; */
+    width: 8em;
     background: rgb(30 85 88);
     border: none;
     color: white;
@@ -176,9 +178,11 @@ label {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 20px;
+    font-size: 110%;
     margin: 4px 2px;
     cursor: pointer;
+    border-radius: 6px;
+    font-family: "Abraham-Light";
 }
 
 #words_display-btn {
@@ -190,9 +194,13 @@ label {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 20px;
-    margin: 4px 2px;
+    /* font-size: 20px; */
     cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    font-size: 110%;
+    font-family: "Abraham-Light";
 }
 
 #words_hide-btn {
@@ -209,6 +217,9 @@ label {
     margin-left: auto;
     margin-right: auto;
     display: none;
+    border-radius: 6px;
+    font-size: 110%;
+    font-family: "Abraham-Light";
 }
 
 
@@ -415,7 +426,7 @@ label {
     .card {
         width: 30%;
         margin: 8px 0;
-        border-radius: 3px;
+        border-radius: 10px;
         font-size: max(6.5vw, 16px) !important;
         /* font-size:calc(17px + 2vw) !important; */
     }

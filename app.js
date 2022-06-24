@@ -58,7 +58,7 @@ function getParam(param) {
 
 //for game of matching audio to hebrew words
 let game_type = getParam('media');
-if (game_type === "audio") {
+if (game_type == "audio") {
   $('.instructions').text('התאימו את ההקלטות בערבית לפירוש העברי ');
 }
 
@@ -195,7 +195,7 @@ $.each(words_array, function (i, word) {
         if (game_type === "audio") {
           d1.insertAdjacentHTML("beforeend",
             "<div class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" +
-            " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.png\" width=\"60\" alt=\"play audio\" />  </div>"
+            " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.png\" width=\"40\" alt=\"play audio\" />  </div>"
           );
 
         } else {
@@ -264,8 +264,8 @@ $(".card").each(function (index, card) {
         setTimeout(function () {
           match.css("visibility", "hidden");
           currentCard = undefined;
-          
-          
+
+
           // let correctAudio = new Audio("/images/correct.mp3");
           // correctAudio.play();
 
@@ -278,15 +278,15 @@ $(".card").each(function (index, card) {
             new Audio("/images/applause.mp3").play();
 
             //the confetti animation
-            for(i=0; i<100; i++) {
+            for (i = 0; i < 100; i++) {
               // Random rotation
               var randomRotation = Math.floor(Math.random() * 360);
-                // Random Scale
+              // Random Scale
               var randomScale = Math.random() * 1;
               // Random width & height between 0 and viewport
               var randomWidth = Math.floor(Math.random() * Math.max(document.documentElement.clientWidth, window.innerWidth || 0));
-              var randomHeight =  Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
-              
+              var randomHeight = Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
+
               // Random animation-delay
               var randomAnimationDelay = Math.floor(Math.random() * 15);
               console.log(randomAnimationDelay);
@@ -298,13 +298,13 @@ $(".card").each(function (index, card) {
               // Create confetti piece
               var confetti = document.createElement('div');
               confetti.className = 'confetti';
-              confetti.style.top=randomHeight + 'px';
-              confetti.style.right=randomWidth + 'px';
-              confetti.style.backgroundColor=randomColor;
+              confetti.style.top = randomHeight + 'px';
+              confetti.style.right = randomWidth + 'px';
+              confetti.style.backgroundColor = randomColor;
               // confetti.style.transform='scale(' + randomScale + ')';
-              confetti.style.obacity=randomScale;
-              confetti.style.transform='skew(15deg) rotate(' + randomRotation + 'deg)';
-              confetti.style.animationDelay=randomAnimationDelay + 's';
+              confetti.style.obacity = randomScale;
+              confetti.style.transform = 'skew(15deg) rotate(' + randomRotation + 'deg)';
+              confetti.style.animationDelay = randomAnimationDelay + 's';
               document.getElementById("confetti-wrapper").appendChild(confetti);
             }
 
@@ -379,10 +379,11 @@ $("#words_display-btn").click(function () {
     });
   }
 
-  $("#words_learned").css("display", "block");
 
-  document.getElementById("words_display-btn").disabled = true;
-  $("#words_hide-btn").css("display", "block");
+  $("#words_learned").css("display", "block");
+  $("#words_display-btn").css("display", "none");
+  $("#words_hide-btn").css("display", "inline-block");
+
 
   entered_before = true;
 });
@@ -390,8 +391,9 @@ $("#words_display-btn").click(function () {
 
 $("#words_hide-btn").click(function () {
   $("#words_learned").css("display", "none");
-  $('#words_display-btn').removeAttr("disabled");
-  $('#words_hide-btn').css("display", "none");
+  $("#words_display-btn").css("display", "inline-block");
+  $("#words_hide-btn").css("display", "none");
+
 });
 
 
