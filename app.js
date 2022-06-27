@@ -195,7 +195,7 @@ $.each(words_array, function (i, word) {
         if (game_type === "audio") {
           d1.insertAdjacentHTML("beforeend",
             "<div class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" +
-            " data-audio=" + curr_audio + "> <img src=\"images/audio_icon.png\" width=\"40\" alt=\"play audio\" />  </div>"
+            " data-audio=" + curr_audio + "> <img src=\"media/audio_icon.png\" width=\"40\" alt=\"play audio\" />  </div>"
           );
 
         } else {
@@ -245,6 +245,8 @@ $(".card").each(function (index, card) {
 
 
       if ($(this).data("match") === currentCard.data("match") && $(this).data("group") === currentCard.data("group")) {
+
+
         // if we picked the same card twice
         $(this).css("outline", "2px solid orange");
         $(this).css("background", "#F7CD7C");
@@ -258,6 +260,9 @@ $(".card").each(function (index, card) {
       } else if ($(this).data("match") === currentCard.data("match")) {
         // if we picked the right card
         let match = $(".match-" + $(this).data("match"));
+
+        new Audio("/media/correct.wav").play();
+
         match.css("outline", "2px solid green").css("background", "lightgreen");
         count++;
 
@@ -266,8 +271,7 @@ $(".card").each(function (index, card) {
           currentCard = undefined;
 
 
-          // let correctAudio = new Audio("/images/correct.mp3");
-          // correctAudio.play();
+         
 
           if (count == 8) {
             clearInterval(timer);
@@ -275,7 +279,7 @@ $(".card").each(function (index, card) {
             document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
             $("#cards-container").css("display", "none");
             $(".end").css("display", "block");
-            new Audio("/images/applause.mp3").play();
+            new Audio("/media/applause.mp3").play();
 
             //the confetti animation
             for (i = 0; i < 100; i++) {
@@ -317,6 +321,7 @@ $(".card").each(function (index, card) {
         }, 250);
 
       } else { // if wrong
+        new Audio("/media/wrong.wav").play();
         $(this).css("outline", "2px solid red");
         $(this).css("background", "#ff000091");
         currentCard.css("outline", "2px solid red");
