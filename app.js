@@ -3,6 +3,8 @@ let count = 0;
 let timeCount = 0;
 let entered_before = false;
 
+//to enable or disable sound
+let allow_sound = true;
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 //  this code if for the timer
@@ -260,9 +262,9 @@ $(".card").each(function (index, card) {
       } else if ($(this).data("match") === currentCard.data("match")) {
         // if we picked the right card
         let match = $(".match-" + $(this).data("match"));
-
-        new Audio("/media/correct.wav").play();
-
+        if (allow_sound){
+           new Audio("/media/correct.wav").play();
+        }
         match.css("outline", "2px solid green").css("background", "lightgreen");
         count++;
 
@@ -279,7 +281,9 @@ $(".card").each(function (index, card) {
             document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
             $("#cards-container").css("display", "none");
             $(".end").css("display", "block");
-            new Audio("/media/applause.mp3").play();
+            if(allow_sound){
+              new Audio("/media/applause.mp3").play();
+            }
 
             //the confetti animation
             for (i = 0; i < 100; i++) {
@@ -321,7 +325,10 @@ $(".card").each(function (index, card) {
         }, 250);
 
       } else { // if wrong
-        new Audio("/media/wrong.wav").play();
+        if (allow_sound){
+          new Audio("/media/wrong.wav").play();
+        }
+
         $(this).css("outline", "2px solid red");
         $(this).css("background", "#ff000091");
         currentCard.css("outline", "2px solid red");
@@ -414,3 +421,16 @@ window.addEventListener("message", function (event) {
 
 
 
+//to enable and disable sound
+$("#enable_sound").click(function () {
+  allow_sound=true;
+  $("#enable_sound").css("display", "none");
+  $("#disable_sound").css("display", "inline-block");
+});
+
+$("#disable_sound").click(function () {
+  allow_sound=false;
+  $("#enable_sound").css("display", "inline-block");
+  $("#disable_sound").css("display", "none");
+
+});

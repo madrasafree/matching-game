@@ -115,11 +115,9 @@ label {
     justify-content: space-around;
     flex-wrap: wrap;
     flex-direction: row;
-    /* justify-content: space-between; */
     width: 100%;
     margin: 0 auto;
     max-width: 840px;
-    /* padding-bottom: 1.5%; */
     font-size: 110%;
     color: rgb(10 80 76);
 
@@ -133,35 +131,60 @@ label {
 
 .restart-btn-container {
     order: 1;
-    display: flex;
+    display:flex;
     align-items: center;
+    justify-content: center;
+    flex-grow:1;
 }
+.allow-sound-container {
+    order: 2;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow:1;
+}
+.explanation-container {
+    text-align: center;
+    padding: 0% 2%;
+    order: 3;
+    font-family: "Abraham-Light";
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow:5;
+}
+.timer-container {
+    padding: 0% 1%;
+    order: 4;
+    font-family: "Abraham-Light";
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow:2;
+}
+
 
 .restart-btn {
     border: none;
     background-color: white;
     cursor: pointer;
-    padding-right: 1em;
     margin: 20% 2%;
     font-size: 36px;
 }
 
-.explanation-container {
-    text-align: center;
-    padding: 0% 2%;
-    order: 2;
-    font-family: "Abraham-Light";
-    display: flex;
-    align-items: center;
+#enable_sound {
+    display:none;
+    width:30px;
+    height:30px;
+    background-color: green;
+}
+#disable_sound {
+    width:30px;
+    height:30px;
+    background-color: red;
 }
 
-.timer-container {
-    padding: 0% 1%;
-    order: 3;
-    font-family: "Abraham-Light";
-    display: flex;
-    align-items: center;
-}
+
 
 
 
@@ -390,26 +413,31 @@ label {
     }
 
     .restart-btn-container {
-        order: 2;
+        order: 1;
+        flex-grow:1;
     }
 
+    .timer-container {
+        order: 4;
+        flex-grow:2;
+    }
+    .allow-sound-container {
+        order: 2;
+        flex-grow:1;
+    }
     .explanation-container {
         width: 100%;
         margin-bottom: 3%;
         order: -1;
     }
-
-    .explanation-container h2 {
-        margin: 1px;
-    }
-
-    .timer-container {
-        order: 4;
-    }
-
     .image-container {
         width: 30%;
         order: 3;
+        flex-grow:3;
+    }
+
+    .explanation-container h2 {
+        margin: 1px;
     }
 
     .image-container img {
