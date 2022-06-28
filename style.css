@@ -143,6 +143,10 @@ label {
     justify-content: center;
     flex-grow:1;
 }
+.allow-sound-container i{
+    cursor: pointer;
+    font-size:30px;
+}
 .explanation-container {
     text-align: center;
     padding: 0% 2%;
@@ -174,14 +178,14 @@ label {
 
 #enable_sound {
     display:none;
-    width:30px;
+    /* width:30px;
     height:30px;
-    background-color: green;
+    background-color: green; */
 }
 #disable_sound {
-    width:30px;
+    /* width:30px;
     height:30px;
-    background-color: red;
+    background-color: red; */
 }
 
 
