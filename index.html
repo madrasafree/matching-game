@@ -52,6 +52,10 @@
         <i class="fa-solid fa-volume-off" id="enable_sound"></i>
         <i class="fa-solid fa-volume-high" id="disable_sound"></i> 
       </span>
+      <span class="score-container">
+
+       <div id="score">20</div>
+      </span>
       <span class="explanation-container">
         <h2 class="instructions">
           התאימו את המילים בערבית לפירוש העברי שלהן
@@ -67,7 +71,7 @@
 
     <div class="board">
 
-      <div class="madrasa-course-content end">
+      <div class="madrasa-course-content end_success">
         <div id="end_prints">
           <h3>
             כֻּל אִלְאִחְתִרַאם
@@ -78,8 +82,11 @@
           <div> הזמן שלך:
             <label id="finish_timer">00</label>:<label id="finish_seconds">00</label>
           </div>
+          <div> הניקוד שלך:
+            <label id="finish_score">00</label>
+          </div>
           <div>
-            <button class="another_game-btn">עוד משחק?</button>
+            <button id="another_game-btn">עוד משחק?</button>
             <button id="words_display-btn">הצג מילים</button>
             <button id="words_hide-btn">הסתר מילים</button>
           </div>
@@ -89,6 +96,31 @@
           <div id="words_hide"></div>
         </div>
       </div>
+
+      <div class="madrasa-course-content end_failure">
+        <div id="end_prints-f">
+          <h3>
+            בסיטה, לא נורא...
+          </h3>
+          <h3>
+            יכולים לנסות שוב
+          </h3>
+          <div><img src="media/trophy.svg" width="120"></div>
+          <div> הזמן שלך:
+            <label id="finish_timer-f">00</label>:<label id="finish_seconds-f">00</label>
+          </div>
+          <div>
+            <button id="another_game-btn-f">עוד משחק?</button>
+            <button id="words_display-btn-f">הצג מילים</button>
+            <button id="words_hide-btn-f">הסתר מילים</button>
+          </div>
+          <div id="words_display-f">
+            <div id="words_learned-f"></div>
+          </div>
+        </div>
+      </div>
+
+
     </div>
 
     <div id="popup_container">
@@ -98,6 +130,12 @@
       </div>
     </div>
 
+    <div id="failed_popup_container">
+      <div class="popup">
+        <h2 class="instructions"> בסיטה, לא נורא... </h2>
+        <button id="continue_after_failed-btn">לחצו להמשך</button>
+      </div>
+    </div>
 
     <div id="cards-container">
 

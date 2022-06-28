@@ -5,6 +5,7 @@ let entered_before = false;
 
 //to enable or disable sound
 let allow_sound = true;
+let score = 20; //initial score
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 //  this code if for the timer
@@ -38,6 +39,14 @@ function pad(val) {
   }
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+//This code is for the score
+
+
+let scoreLabel = document.getElementById("score");
+
+function setScore() {
+  scoreLabel.innerHTML = score;
+}
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 // This code handle getting words from local json file and chose from them randomly according to the wanted lessons and units.
@@ -219,6 +228,46 @@ $.each(words_array, function (i, word) {
   counter1 = -1;
 });
 
+
+$("#continue_after_failed-btn").click(function () {
+  $("#failed_popup_container").css("display", "none");
+  $("#cards-container").css("display", "none");
+  $(".end_failure").css("display", "block");
+
+});
+
+function confetti() {
+  //the confetti animation
+  for (i = 0; i < 100; i++) {
+    // Random rotation
+    var randomRotation = Math.floor(Math.random() * 360);
+    // Random Scale
+    var randomScale = Math.random() * 1;
+    // Random width & height between 0 and viewport
+    var randomWidth = Math.floor(Math.random() * Math.max(document.documentElement.clientWidth, window.innerWidth || 0));
+    var randomHeight = Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
+
+    // Random animation-delay
+    var randomAnimationDelay = Math.floor(Math.random() * 15);
+    console.log(randomAnimationDelay);
+
+    // Random colors
+    var colors = ['#0CD977', '#FF1C1C', '#FF93DE', '#5767ED', '#FFC61C', '#8497B0']
+    var randomColor = colors[Math.floor(Math.random() * colors.length)];
+
+    // Create confetti piece
+    var confetti = document.createElement('div');
+    confetti.className = 'confetti';
+    confetti.style.top = randomHeight + 'px';
+    confetti.style.right = randomWidth + 'px';
+    confetti.style.backgroundColor = randomColor;
+    // confetti.style.transform='scale(' + randomScale + ')';
+    confetti.style.obacity = randomScale;
+    confetti.style.transform = 'skew(15deg) rotate(' + randomRotation + 'deg)';
+    confetti.style.animationDelay = randomAnimationDelay + 's';
+    document.getElementById("confetti-wrapper").appendChild(confetti);
+  }
+}
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -262,9 +311,12 @@ $(".card").each(function (index, card) {
       } else if ($(this).data("match") === currentCard.data("match")) {
         // if we picked the right card
         let match = $(".match-" + $(this).data("match"));
-        if (allow_sound){
-           new Audio("/media/correct.wav").play();
+        if (allow_sound) {
+          new Audio("/media/correct.wav").play();
         }
+        score += 10;
+        setScore();
+
         match.css("outline", "2px solid green").css("background", "lightgreen");
         count++;
 
@@ -273,50 +325,19 @@ $(".card").each(function (index, card) {
           currentCard = undefined;
 
 
-         
-
           if (count == 8) {
             clearInterval(timer);
             document.getElementById("finish_timer").textContent = document.getElementById("timer").textContent;
             document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
+            document.getElementById("finish_score").textContent = score;
+
             $("#cards-container").css("display", "none");
-            $(".end").css("display", "block");
-            if(allow_sound){
+            $(".end_success").css("display", "block");
+            if (allow_sound) {
               new Audio("/media/applause.mp3").play();
             }
 
-            //the confetti animation
-            for (i = 0; i < 100; i++) {
-              // Random rotation
-              var randomRotation = Math.floor(Math.random() * 360);
-              // Random Scale
-              var randomScale = Math.random() * 1;
-              // Random width & height between 0 and viewport
-              var randomWidth = Math.floor(Math.random() * Math.max(document.documentElement.clientWidth, window.innerWidth || 0));
-              var randomHeight = Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
-
-              // Random animation-delay
-              var randomAnimationDelay = Math.floor(Math.random() * 15);
-              console.log(randomAnimationDelay);
-
-              // Random colors
-              var colors = ['#0CD977', '#FF1C1C', '#FF93DE', '#5767ED', '#FFC61C', '#8497B0']
-              var randomColor = colors[Math.floor(Math.random() * colors.length)];
-
-              // Create confetti piece
-              var confetti = document.createElement('div');
-              confetti.className = 'confetti';
-              confetti.style.top = randomHeight + 'px';
-              confetti.style.right = randomWidth + 'px';
-              confetti.style.backgroundColor = randomColor;
-              // confetti.style.transform='scale(' + randomScale + ')';
-              confetti.style.obacity = randomScale;
-              confetti.style.transform = 'skew(15deg) rotate(' + randomRotation + 'deg)';
-              confetti.style.animationDelay = randomAnimationDelay + 's';
-              document.getElementById("confetti-wrapper").appendChild(confetti);
-            }
-
-
+            confetti();
 
           }
           cards.forEach(card => { //enable clicking on more cards
@@ -325,7 +346,7 @@ $(".card").each(function (index, card) {
         }, 250);
 
       } else { // if wrong
-        if (allow_sound){
+        if (allow_sound) {
           new Audio("/media/wrong.wav").play();
         }
 
@@ -346,6 +367,16 @@ $(".card").each(function (index, card) {
           currentCard.css("animation", "still");
           thisCard.css("animation", "still");
           currentCard = undefined;
+
+          score -= 5;
+          setScore();
+          if (score <= 0) { //game over
+            clearInterval(timer);
+            $("#failed_popup_container").css("display", "block");
+            document.getElementById("finish_timer-f").textContent = document.getElementById("timer").textContent;
+            document.getElementById("finish_seconds-f").textContent = document.getElementById("seconds").textContent;
+            return;
+          }
 
           cards.forEach(card => { //enable clicking on more cards
             card.style.pointerEvents = 'auto';
@@ -375,7 +406,7 @@ $(".card").each(function (index, card) {
 $(".restart-btn").on("click", e => location.reload());
 
 //new restart when we want to restart the game when it ends
-$(".another_game-btn").on("click", e => location.reload());
+$("#another_game-btn").on("click", e => location.reload());
 
 
 // to show all the words in the end
@@ -409,6 +440,36 @@ $("#words_hide-btn").click(function () {
 });
 
 
+$("#another_game-btn-f").on("click", e => location.reload());
+
+
+
+$("#words_display-btn-f").click(function () {
+  let words_display = document.getElementById("words_learned-f");
+  if (!entered_before) {
+    $.each(filteredWords, function (i, word) {
+      words_display.insertAdjacentHTML("beforeend",
+        "<div>" + word["hebrew"] + "   =   " + word["arabic"] + "</div>"
+      );
+    });
+  }
+  $("#words_learned-f").css("display", "block");
+  $("#words_display-btn-f").css("display", "none");
+  $("#words_hide-btn-f").css("display", "inline-block");
+  entered_before = true;
+});
+
+
+$("#words_hide-btn-f").click(function () {
+  $("#words_learned-f").css("display", "none");
+  $("#words_display-btn-f").css("display", "inline-block");
+  $("#words_hide-btn-f").css("display", "none");
+
+});
+
+
+
+
 parent.postMessage(document.body.offsetHeight + "px", "*");
 
 window.addEventListener("message", function (event) {
@@ -423,13 +484,13 @@ window.addEventListener("message", function (event) {
 
 //to enable and disable sound
 $("#enable_sound").click(function () {
-  allow_sound=true;
+  allow_sound = true;
   $("#enable_sound").css("display", "none");
   $("#disable_sound").css("display", "inline-block");
 });
 
 $("#disable_sound").click(function () {
-  allow_sound=false;
+  allow_sound = false;
   $("#enable_sound").css("display", "inline-block");
   $("#disable_sound").css("display", "none");
 

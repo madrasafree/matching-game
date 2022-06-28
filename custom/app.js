@@ -277,7 +277,7 @@ $(".card").each(function (index, card) {
                         document.getElementById("finish_timer").textContent = document.getElementById("timer").textContent;
                         document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
                         $("#cards-container").css("display", "none");
-                        $(".end").css("display", "block");
+                        $(".end_success").css("display", "block");
 
                         if(allow_sound){
                           new Audio("../media/applause.mp3").play();
@@ -363,7 +363,7 @@ $(".card").each(function (index, card) {
 $(".restart-btn").on("click", e => location.reload());
 
 //new restart when we want to restart the game when it ends
-$(".another_game-btn").on("click", e => location.reload());
+$("#another_game-btn").on("click", e => location.reload());
 
 
 // to show all the words in the end
@@ -374,7 +374,7 @@ $("#words_display-btn").click(function () {
     if (!entered_before) {
         $.each(filteredWords, function (i, word) {
             words_display.insertAdjacentHTML("beforeend",
-                "<div>" + word["hebrew"] + "   =   " + word["arabic"] + "</div>"
+                "<div>" + word["sideA"] + "   =   " + word["sideB"] + "</div>"
             );
         });
     }

@@ -103,10 +103,21 @@ label {
     padding: 8px;
     color: rgb(25, 72, 74);
 }
-
-.end {
+#end_prints-f {
+    text-align: center;
+    width: 100%;
+    min-height: 100%;
+    padding: 8px;
+    color: rgb(25, 72, 74);
+}
+.end_success {
     display: none; 
 }
+
+.end_failure{
+    display: none; 
+}
+
 
 
 
@@ -138,14 +149,15 @@ label {
 }
 .allow-sound-container {
     order: 2;
+    width:25px; 
     display:flex;
     align-items: center;
-    justify-content: right;
+    justify-content: left;
+    padding-left: 3%;
     flex-grow:1;
 }
 .allow-sound-container i{
     cursor: pointer;
-    font-size:24px;
 }
 .explanation-container {
     text-align: center;
@@ -159,14 +171,24 @@ label {
 }
 .timer-container {
     padding: 0% 1%;
-    order: 4;
+    order: 5;
     font-family: "Abraham-Light";
     display:flex;
     align-items: center;
     justify-content: center;
-    flex-grow:2;
+    flex-grow:1;
 }
-
+.score-container{
+    order: 4;
+    direction: rtl;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow:1;
+    font-family: "Abraham-Light"    ;
+    font-size: 120%;
+    font-weight: bold;
+}
 
 .restart-btn {
     border: none;
@@ -178,25 +200,17 @@ label {
 
 #enable_sound {
     display:none;
-    /* width:30px;
-    height:30px;
-    background-color: green; */
+    font-size: 27px; 
 }
 #disable_sound {
-    /* width:30px;
-    height:30px;
-    background-color: red; */
+    font-size: 27px;
 }
 
 
 
 
 
-
-
-
-
-.another_game-btn {
+#another_game-btn {
     width: 8em;
     background: rgb(30 85 88);
     border: none;
@@ -249,6 +263,58 @@ label {
     font-family: "Abraham-Light";
 }
 
+
+#another_game-btn-f {
+    width: 8em;
+    background: rgb(30 85 88);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 110%;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: "Abraham-Light";
+}
+#words_display-btn-f {
+    width: 8em;
+    background: rgb(30 85 88);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* font-size: 20px; */
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    font-size: 110%;
+    font-family: "Abraham-Light";
+}
+
+#words_hide-btn-f {
+    width: 8em;
+    background: rgb(30 85 88);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    border-radius: 6px;
+    font-size: 110%;
+    font-family: "Abraham-Light";
+}
 
 .words_list {
     color: rgb(155, 38, 126);
@@ -362,7 +428,19 @@ label {
 }
 
 
-
+/* failure popup */
+#failed_popup_container{
+    display: none;
+    position: fixed;
+    direction: rtl;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
 /* ------------------------------------------------------------- */
 
 
