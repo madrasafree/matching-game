@@ -131,6 +131,7 @@ function getRandomWords(number, Words) {
 }
 
 var allwords = loadJson("custom.json");
+
 var gameId = getParam("id");
 let filteredWords;
 
@@ -138,7 +139,6 @@ if (!(gameId in allwords)) {
     console.log("משחק לא קיים!");
 } else {
     filteredWords = allwords[gameId];
-    // console.log(filterWords);
 }
 
 
@@ -164,11 +164,58 @@ function shuffle(array) {
     return array;
 }
 
+function confetti(){
+     //the confetti animation
+     for (i = 0; i < 100; i++) {
+        // Random rotation
+        var randomRotation = Math.floor(Math.random() * 360);
+        // Random Scale
+        var randomScale = Math.random() * 1;
+        // Random width & height between 0 and viewport
+        var randomWidth = Math.floor(Math.random() * Math.max(document.documentElement.clientWidth, window.innerWidth || 0));
+        var randomHeight = Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
+
+        // Random animation-delay
+        var randomAnimationDelay = Math.floor(Math.random() * 15);
+        
+        // Random colors
+        var colors = ['#0CD977', '#FF1C1C', '#FF93DE', '#5767ED', '#FFC61C', '#8497B0']
+        var randomColor = colors[Math.floor(Math.random() * colors.length)];
+
+        // Create confetti piece
+        var confetti = document.createElement('div');
+        confetti.className = 'confetti';
+        confetti.style.top = randomHeight + 'px';
+        confetti.style.right = randomWidth + 'px';
+        confetti.style.backgroundColor = randomColor;
+        // confetti.style.transform='scale(' + randomScale + ')';
+        confetti.style.obacity = randomScale;
+        confetti.style.transform = 'skew(15deg) rotate(' + randomRotation + 'deg)';
+        confetti.style.animationDelay = randomAnimationDelay + 's';
+        document.getElementById("confetti-wrapper").appendChild(confetti);
+    }
+}
+
+
+
 //we use 3 arrays to pick the cards randomly
-var array_of_random_indexes = shuffle([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]);
-var array_of_data = [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7];
-var words_array = [];
-var audio_array = []
+
+//here- create array of indexes, in the size of the number of words
+let number_of_pairs = filteredWords.length;
+let array_of_indexes = [];
+for(let i=0; i<2*number_of_pairs; i++){
+    array_of_indexes.push(i);
+}
+let array_of_random_indexes = shuffle(array_of_indexes);
+
+//array with double indexes to identify matching cards
+let array_of_data = []; //[0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7];
+for(let i=0; i<number_of_pairs; i++){
+    array_of_data.push(i,i);
+}
+
+let words_array = [];
+let audio_array = []
 
 $.each(filteredWords, function (i, word) {
     words_array.push(word["sideA"]);
@@ -187,20 +234,25 @@ $.each(words_array, function (i, word) {
 
     for (const element of array_of_random_indexes) {
         counter1++;
+
+
         if ((counter1 % 2) == 1) {
             audio_counter++;
             curr_audio = audio_array[audio_counter];
         }
         if (element == i) {
-            if (words_array[counter1].length > 26) {
-                style_font_size = "style=\"font-size: 20px; \" "
-            } else if (words_array[counter1].length > 18) {
-                style_font_size = "style=\"font-size: 22px;\" "
-            } else {
-                style_font_size = "style=\"font-size: 25px;\" "
+            if (words_array[counter1]){
+                if (words_array[counter1].length > 26) {
+                    style_font_size = "style=\"font-size: 20px; \" "
+                } else if (words_array[counter1].length > 18) {
+                    style_font_size = "style=\"font-size: 22px;\" "
+                } else {
+                    style_font_size = "style=\"font-size: 25px;\" "
+                }
             }
+           
             if ((counter1 % 2) == 1) {
-                lang = "arabic";
+                lang = "sideA";
                 if (game_type === "audio") {
                     d1.insertAdjacentHTML("beforeend",
                         "<div class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" +
@@ -215,7 +267,7 @@ $.each(words_array, function (i, word) {
                 }
 
             } else {
-                lang = "hebrew";
+                lang = "sideB";
                 d1.insertAdjacentHTML("beforeend",
                     "<div " + style_font_size + "class=" + "\"card match-" + array_of_data[counter1] + "\"" + "data-match=" + array_of_data[counter1] + " data-group=" + "\"" + lang + "\"" + ">" + words_array[counter1] + "</div>"
                 );
@@ -233,7 +285,7 @@ $.each(words_array, function (i, word) {
 $(".card").each(function (index, card) {
     $(card).on("click", function (e) {
         if (game_type === "audio") {
-            if ($(this).data("group") == "arabic") {
+            if ($(this).data("group") == "sideA") {
                 let audio1 = $(this).data("audio");
                 let audio2 = new Audio(audio1);
                 audio2.play();
@@ -272,7 +324,7 @@ $(".card").each(function (index, card) {
                     match.css("visibility", "hidden");
                     currentCard = undefined;
 
-                    if (count == 8) {
+                    if (count == number_of_pairs) {
                         clearInterval(timer);
                         document.getElementById("finish_timer").textContent = document.getElementById("timer").textContent;
                         document.getElementById("finish_seconds").textContent = document.getElementById("seconds").textContent;
@@ -282,36 +334,7 @@ $(".card").each(function (index, card) {
                         if(allow_sound){
                           new Audio("../media/applause.mp3").play();
                         }
-                        //the confetti animation
-                        for (i = 0; i < 100; i++) {
-                            // Random rotation
-                            var randomRotation = Math.floor(Math.random() * 360);
-                            // Random Scale
-                            var randomScale = Math.random() * 1;
-                            // Random width & height between 0 and viewport
-                            var randomWidth = Math.floor(Math.random() * Math.max(document.documentElement.clientWidth, window.innerWidth || 0));
-                            var randomHeight = Math.floor(Math.random() * Math.max(document.documentElement.clientHeight, window.innerHeight || 500));
-
-                            // Random animation-delay
-                            var randomAnimationDelay = Math.floor(Math.random() * 15);
-                            console.log(randomAnimationDelay);
-
-                            // Random colors
-                            var colors = ['#0CD977', '#FF1C1C', '#FF93DE', '#5767ED', '#FFC61C', '#8497B0']
-                            var randomColor = colors[Math.floor(Math.random() * colors.length)];
-
-                            // Create confetti piece
-                            var confetti = document.createElement('div');
-                            confetti.className = 'confetti';
-                            confetti.style.top = randomHeight + 'px';
-                            confetti.style.right = randomWidth + 'px';
-                            confetti.style.backgroundColor = randomColor;
-                            // confetti.style.transform='scale(' + randomScale + ')';
-                            confetti.style.obacity = randomScale;
-                            confetti.style.transform = 'skew(15deg) rotate(' + randomRotation + 'deg)';
-                            confetti.style.animationDelay = randomAnimationDelay + 's';
-                            document.getElementById("confetti-wrapper").appendChild(confetti);
-                        }
+                        confetti()
 
 
 
