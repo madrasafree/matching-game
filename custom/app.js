@@ -374,7 +374,7 @@ $("#words_display-btn").click(function () {
     if (!entered_before) {
         $.each(filteredWords, function (i, word) {
             words_display.insertAdjacentHTML("beforeend",
-                "<div>" + word["hebrew"] + "   =   " + word["arabic"] + "</div>"
+                "<div>" + word["sideA"] + "   =   " + word["sideB"] + "</div>"
             );
         });
     }
